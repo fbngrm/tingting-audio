@@ -15,3 +15,7 @@ tones/          7 files  ~0.1 MB   Tone-teaching syllables
 
 Files are named by word number within each HSK level (e.g. `words/hsk1/1.mp3`).
 Metadata is in [`manifest.json`](manifest.json).
+
+`words/aishell/hsk7/` holds 43 AISHELL-3 recordings (Apache License 2.0) for
+HSK 7-9 words without another recording; see
+[`words/aishell/NOTICE.md`](words/aishell/NOTICE.md).
