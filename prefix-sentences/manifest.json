@@ -1,0 +1,1682 @@
+{
+  "prefix-unmoeglich-1": {
+    "text": "Ohne Schlüssel ist der Zugang unmöglich.",
+    "voice": "de-DE-KatjaNeural",
+    "rate": "+0%",
+    "version": "ca3a01c616ebdef9f148d493717b24d2fd9002b18637a444e3135b0db350c0a5",
+    "audioSha256": "73b7be203cda46e9dadb63a8c8c4af02db9eaca2b8cbf9f046fd5fc6c10c63d9"
+  },
+  "prefix-unmoeglich-2": {
+    "text": "Das ist eine unmögliche Aufgabe.",
+    "voice": "de-DE-KatjaNeural",
+    "rate": "+0%",
+    "version": "7f84f8c38bf97cc3c2c72a2456c3485f8db0d0dcc3f31e3b27c8fdf9556a0fe8",
+    "audioSha256": "b559a4e958bdf7c98ed0f3893bc2201540260e564c17eecba16b57a290869661"
+  },
+  "prefix-unfreundlich-1": {
+    "text": "Der Verkäufer war heute unfreundlich.",
+    "voice": "de-DE-KatjaNeural",
+    "rate": "+0%",
+    "version": "b82bd4daac5beb7625abfa302076c03dd53f75714ba51d8efc79232add0e9cba",
+    "audioSha256": "38055cc28583011f79915dad4ab96cc1d5e1d638388909d2f93dd3cf824e2894"
+  },
+  "prefix-unfreundlich-2": {
+    "text": "Wir trafen einen unfreundlichen Nachbarn.",
+    "voice": "de-DE-KatjaNeural",
+    "rate": "+0%",
+    "version": "1ab713fb2513c001915cb3556641b27abba97857e2b0d41ce6d0b7e5e7abf41c",
+    "audioSha256": "c4cea177f5a016e06c4607d465e9709ebe7d9d7e56fb34be12b2714b15477718"
+  },
+  "prefix-unklar-1": {
+    "text": "Die Bedeutung dieses Satzes ist unklar.",
+    "voice": "de-DE-KatjaNeural",
+    "rate": "+0%",
+    "version": "16945c1698cb667aefbbfe4185f8cf115a91dc09fe4892a014ddc855857ff181",
+    "audioSha256": "16ba68722299b61bd544b7988ca965d32ff39e12f625b70eb6204e6bca620f50"
+  },
+  "prefix-unklar-2": {
+    "text": "Bitte erkläre die unklare Regel.",
+    "voice": "de-DE-KatjaNeural",
+    "rate": "+0%",
+    "version": "c381e00504481517718354f7f5658acc4c30ec5ba4616e8ddb393a6805ec5de8",
+    "audioSha256": "9b55dbfebbeef96169d291233f098e3069a4df4ef465a2fa087dc8fd3ba77087"
+  },
+  "prefix-ungesund-1": {
+    "text": "Zu wenig Schlaf ist ungesund.",
+    "voice": "de-DE-KatjaNeural",
+    "rate": "+0%",
+    "version": "04aeffffdb1efb3e73660cc7d4ef2505c7159148256b219601ca9c7e5dc0a5c7",
+    "audioSha256": "055e1ee46bdf2195f7a7058166f06ebf37457f1179f5e856aa94db7cee5fae42"
+  },
+  "prefix-ungesund-2": {
+    "text": "Er möchte weniger ungesunde Snacks essen.",
+    "voice": "de-DE-KatjaNeural",
+    "rate": "+0%",
+    "version": "18f6bf4bfa4360ab70834633ec8c06eab18df50830833c3deb1f3ba2ab6adef3",
+    "audioSha256": "f989517a78f9eb7bc11e50f3dfb7764a6692ca1db4f2ccae99da04e13231cd3a"
+  },
+  "prefix-ungluecklich-1": {
+    "text": "Seit dem Streit ist sie unglücklich.",
+    "voice": "de-DE-ConradNeural",
+    "rate": "+0%",
+    "version": "3f3976a7355b70ba6b9f495fc76c64677b98646483377cd2a85b03435370427c",
+    "audioSha256": "4b99961085ca4ca9ed8c87552020eca5f8f507dfb1eed26fa68a1607316c56e8"
+  },
+  "prefix-ungluecklich-2": {
+    "text": "Das unglückliche Kind braucht Trost.",
+    "voice": "de-DE-ConradNeural",
+    "rate": "+0%",
+    "version": "dd6b83b4c124412111b0750297ac96c6260ce46cfd36306848bb565797e07afb",
+    "audioSha256": "d03628112e80094ce975e4c810ac5bc215916d4dd4c10a17fb902f2ba0a449f7"
+  },
+  "prefix-unpuenktlich-1": {
+    "text": "Unser Bus ist leider oft unpünktlich.",
+    "voice": "de-DE-ConradNeural",
+    "rate": "+0%",
+    "version": "2e98b354d57c19fd6cf86cb803cf6c9c0c3a45eebcf5768a29d2401a96798647",
+    "audioSha256": "14f256e8e33820be6620595b500aad720d86856c51d05f1395f1e2c69cc59d5d"
+  },
+  "prefix-unpuenktlich-2": {
+    "text": "Der unpünktliche Gast kam erst nach dem Essen.",
+    "voice": "de-DE-ConradNeural",
+    "rate": "+0%",
+    "version": "6937c9ab15177cf2599d93e8eeffe7c6027d8e94c0fb2e796d6274b0a6cf5e99",
+    "audioSha256": "3d13c8fa22ef08eca97fda312c59ade7dce987c9f9fd4bd93405fb3ec7890b9a"
+  },
+  "prefix-unruhe-1": {
+    "text": "Vor der Prüfung spüre ich große Unruhe.",
+    "voice": "de-DE-KatjaNeural",
+    "rate": "+0%",
+    "version": "175812e72287c0d207969927eaf2aef87f36ccdb398c6c3f0e8a3c1716f683ca",
+    "audioSha256": "3e39848eb0df356ae59a8f7eef151710f77aadcd06f01f663d227beedae4c79a"
+  },
+  "prefix-unruhe-2": {
+    "text": "Die Unruhe im Saal nimmt zu.",
+    "voice": "de-DE-KatjaNeural",
+    "rate": "+0%",
+    "version": "6732386a98919457f57933742a6180f6b4d851726449cbc44c1f40bce04a7893",
+    "audioSha256": "885c8e1229f204361291ecacb31f2f3e9bd593253ed35a56976ffef394816e82"
+  },
+  "prefix-unordnung-1": {
+    "text": "In seinem Zimmer herrscht Unordnung.",
+    "voice": "de-DE-ConradNeural",
+    "rate": "+0%",
+    "version": "c53af54a3dfa60e35c417cb6dd2830bdde1ff4c10de717f5ddb524283a10e3a4",
+    "audioSha256": "396e1fe3b6539f1d97718e7231180c70a3bf1deaec0f05d97f1ed5f5a8d7271e"
+  },
+  "prefix-unordnung-2": {
+    "text": "Diese Unordnung stört mich beim Arbeiten.",
+    "voice": "de-DE-ConradNeural",
+    "rate": "+0%",
+    "version": "b683708d4b8f2ff8b21d9e84c328910b1f6f5bb1b78a4d7af8ab447031d35106",
+    "audioSha256": "9b5c092fb3d5acbf78c1ffbc171e0791aef9583aec014d0d1d7d42f174fbcb41"
+  },
+  "prefix-unglueck-1": {
+    "text": "Zum Glück wurde bei dem Unglück niemand verletzt.",
+    "voice": "de-DE-ConradNeural",
+    "rate": "+0%",
+    "version": "adff1219c88ea350697030c7dbc1594eb69c92d615dd6fb4cc25d4308aece8ac",
+    "audioSha256": "26a47a026b8157d4e77ca9bf6000c1d81fa8856dcedf1d326cbeb0e4652e686c"
+  },
+  "prefix-unglueck-2": {
+    "text": "Nach so viel Unglück braucht sie Unterstützung.",
+    "voice": "de-DE-ConradNeural",
+    "rate": "+0%",
+    "version": "fd83207accef5f264a891f6f00fdd3cc98201cab5a6d96e099d0fc3349de05df",
+    "audioSha256": "b9fa30617ce652cc8f858f7fa44635665efb989afb40be3f86ec71c7233c4516"
+  },
+  "prefix-misserfolg-1": {
+    "text": "Der erste Versuch war ein Misserfolg.",
+    "voice": "de-DE-KatjaNeural",
+    "rate": "+0%",
+    "version": "2d37cf0f1d27ab5593acfcabea1dd62318994b49aff7262c91b7d8409d1b946d",
+    "audioSha256": "cadc32a626c9d13aa2a232d646cb7c259b9b1424f1776472b502866363f95bbe"
+  },
+  "prefix-misserfolg-2": {
+    "text": "Nach dem Misserfolg versuchten wir es erneut.",
+    "voice": "de-DE-KatjaNeural",
+    "rate": "+0%",
+    "version": "da3ec95caef5ee9d6a3b3d41e4b68d9c30202ac59a1b8865cc480b654a8818e3",
+    "audioSha256": "b0a0e399d343b3752cb61d95a2c3b2314ae59e06836fa1f3d56cc0651d843b79"
+  },
+  "prefix-missverstaendnis-1": {
+    "text": "Ein Missverständnis führte zu dem Streit.",
+    "voice": "de-DE-ConradNeural",
+    "rate": "+0%",
+    "version": "dd0351cff6b57b7c7aed7d2fd2ce47cdbf7814c5be8ed46e876aa29a6a0ad1d1",
+    "audioSha256": "0fb0430a78af011d89d9b0eb1a07455ba4102bad3d5f9a670227ba44c04b63a6"
+  },
+  "prefix-missverstaendnis-2": {
+    "text": "Wir konnten das Missverständnis schnell klären.",
+    "voice": "de-DE-ConradNeural",
+    "rate": "+0%",
+    "version": "4a435d1147ac14ac0408ce5bf6e9e5c045197d3518924fcb12d75c4ad8e4f91c",
+    "audioSha256": "17583da52e37172a6745c5a7dd73c0970c0a559c0993fcf0c48bfb85c1bd96e2"
+  },
+  "prefix-missverstaendlich-1": {
+    "text": "Diese Nachricht ist missverständlich.",
+    "voice": "de-DE-ConradNeural",
+    "rate": "+0%",
+    "version": "2f8cbe2e0a5ac1e9b649ffa18e0535086d73520cbc7f8081a4a29e800e475ca3",
+    "audioSha256": "7bb54989a629fd7eadb45508f52a7a1195578aea8b7e04dc7c1c4a12818bf3f5"
+  },
+  "prefix-missverstaendlich-2": {
+    "text": "Bitte ändere die missverständliche Formulierung.",
+    "voice": "de-DE-ConradNeural",
+    "rate": "+0%",
+    "version": "09f258409c19315ee3b81545e0230f8af9090cd532461abd64de1048e2fd498d",
+    "audioSha256": "8c99d2f5fc3d40777bedb81430eda209d0655c9055f4df8e036aae60b2033170"
+  },
+  "prefix-uralt-1": {
+    "text": "Dieser Baum ist uralt.",
+    "voice": "de-DE-ConradNeural",
+    "rate": "+0%",
+    "version": "b421472de6ab0ad0d34346e72d2821c12b9cff747b2568c3546608a549400c0b",
+    "audioSha256": "b82551e2a33fe9013623de389d2de49f59eca53fd836980cfdf10930564e48d7"
+  },
+  "prefix-uralt-2": {
+    "text": "Im Museum steht ein uralter Schrank.",
+    "voice": "de-DE-ConradNeural",
+    "rate": "+0%",
+    "version": "d4ee916af00d8f37e2f7d87c4975d57cdb33c82792c56214ac112ca8eb5997c1",
+    "audioSha256": "f30c2d0ab3d7b5569dfae935d0441ad1a27bb307717b1c9c07bdf5fc67d02025"
+  },
+  "prefix-urgrossmutter-1": {
+    "text": "Meine Urgroßmutter ist die Mutter meiner Großmutter.",
+    "voice": "de-DE-ConradNeural",
+    "rate": "+0%",
+    "version": "ff8166bdf3c13977b4f0d7c1be2e56a9896d0c5310e3ae854745301eef8f097e",
+    "audioSha256": "cf307bba9f8d138dda4c87d3d85f4257364d8fae8d8183ba1c1114062df4bf7b"
+  },
+  "prefix-urgrossmutter-2": {
+    "text": "Dieses Foto zeigt meine Urgroßmutter als Kind.",
+    "voice": "de-DE-ConradNeural",
+    "rate": "+0%",
+    "version": "0847fd6f042e007c8545dca4cbd08e038fb198274cb5c5dbd65cbb5821c17d73",
+    "audioSha256": "4290bfcff50f94dbcb61e3314ff395b11e53da3ab2607f43cf19d96bf06f88b3"
+  },
+  "prefix-urwald-1": {
+    "text": "Viele Tierarten leben im Urwald.",
+    "voice": "de-DE-KatjaNeural",
+    "rate": "+0%",
+    "version": "e84ecc65e9d9501a00db34304013e3c5bb32a02acff18cd3da11372997813f96",
+    "audioSha256": "142de5e03fa1aa9ac75ef23d4db39b970b496ce0fc3eddcd231634e8805f5737"
+  },
+  "prefix-urwald-2": {
+    "text": "Der Urwald muss geschützt werden.",
+    "voice": "de-DE-KatjaNeural",
+    "rate": "+0%",
+    "version": "26e507cabef9ed585d2b767e90a597349a85dc818531d814dd538179e541860c",
+    "audioSha256": "93165784c1a152606090d60ba5e18e75a093056f8f428733877dcb8fbc87c104"
+  },
+  "prefix-abfahren-1": {
+    "text": "Der Zug soll um acht Uhr abfahren.",
+    "voice": "de-DE-KatjaNeural",
+    "rate": "+0%",
+    "version": "7732eb15bc423c0f801b5e6c1f494e41994cd704ca879dd98f8443700798f8f2",
+    "audioSha256": "87bbd1b655dfb0cb22a5e520943dd505ad0fd5fc85d58349904e8aca2f62b849"
+  },
+  "prefix-abfahren-2": {
+    "text": "Der Bus fährt in fünf Minuten ab.",
+    "voice": "de-DE-KatjaNeural",
+    "rate": "+0%",
+    "version": "c03876091afcd5f70c4790494385332f70a48c858107b47e739bdd1edad45462",
+    "audioSha256": "e03b03c9ad0f926a8939b6c97deb9da614f1edc3c300b21732421d3da8fdd18f"
+  },
+  "prefix-abholen-1": {
+    "text": "Ich muss meine Schwester vom Bahnhof abholen.",
+    "voice": "de-DE-KatjaNeural",
+    "rate": "+0%",
+    "version": "44ba1442dd38156a6fdb659bcd47098e21305178fef4b5e47b0f861feebe4250",
+    "audioSha256": "748b41116912a225e40260cf3f7a4f59df0424756b462effb92ea472fcc15e0e"
+  },
+  "prefix-abholen-2": {
+    "text": "Er holt das Paket morgen ab.",
+    "voice": "de-DE-KatjaNeural",
+    "rate": "+0%",
+    "version": "0234ad455b5c77d951f1c81aaa1bd9a0e37b3bc6d671febb49644861dca0fc5a",
+    "audioSha256": "ff4eca65c6ea178d2644ea3687dea9ea99df4b0da2f733b4bc9d4a0ce7a59243"
+  },
+  "prefix-absagen-1": {
+    "text": "Wir müssen den Termin leider absagen.",
+    "voice": "de-DE-KatjaNeural",
+    "rate": "+0%",
+    "version": "289cc19c3a91d8163998de472e12320f5c7cec93c3661c3ac95cacb97a5621b7",
+    "audioSha256": "1c89556f77f05f51d73b71906e25aac667d8933ebe9a3b460e3cbd062a0c5a74"
+  },
+  "prefix-absagen-2": {
+    "text": "Sie sagt das Konzert wegen Krankheit ab.",
+    "voice": "de-DE-KatjaNeural",
+    "rate": "+0%",
+    "version": "c62fe914513aca326dee4392c92a01169a1947b458e93ad934a0697d8f811e1a",
+    "audioSha256": "0cf683776ed74618e0020659c2e2193b646884bb0a075f4a90924dc4037528ad"
+  },
+  "prefix-ankommen-1": {
+    "text": "Wir werden gegen Mittag ankommen.",
+    "voice": "de-DE-ConradNeural",
+    "rate": "+0%",
+    "version": "414617f47b477b24e34203d37fdab4dbdbb4e0911a6de3bef1daf05468f9e00f",
+    "audioSha256": "72418adae409f807641f2f7a8ba30866f5881669750f0c126a2dcd34e656f6e7"
+  },
+  "prefix-ankommen-2": {
+    "text": "Der Zug kommt pünktlich an.",
+    "voice": "de-DE-ConradNeural",
+    "rate": "+0%",
+    "version": "67216284c6352e88702a323404b522a7440bc1bd298a9eb5b649531106cbfd33",
+    "audioSha256": "bd78e25e20833d8ee301518ad22a27c898bb26a3b009894531d8dd6fd40c9b4d"
+  },
+  "prefix-anrufen-1": {
+    "text": "Ich möchte dich heute Abend anrufen.",
+    "voice": "de-DE-KatjaNeural",
+    "rate": "+0%",
+    "version": "bc7147989b3e1e2c9cd07ca2e03abff4cce3382570acd53104bd27a478d1a56d",
+    "audioSha256": "81b8605b67c25fa913e7ef0d888bc249bbb1737213a8b6fcbe8a72b6199317d6"
+  },
+  "prefix-anrufen-2": {
+    "text": "Sie ruft ihren Bruder an.",
+    "voice": "de-DE-KatjaNeural",
+    "rate": "+0%",
+    "version": "4d8c5a04909871fda077784f75443f72e4f19eb4208c2de9acafe0233f01e29d",
+    "audioSha256": "0f1697aa52f7bc12db9b6296022f50ebca423db486c80062a0a8b3c182b9fa9e"
+  },
+  "prefix-anmachen-1": {
+    "text": "Kannst du bitte das Licht anmachen?",
+    "voice": "de-DE-KatjaNeural",
+    "rate": "+0%",
+    "version": "202e8ba8ff7acc22ade61970f14be01ee6c92b739320fbf1e4b42079475e157d",
+    "audioSha256": "a1a93e4d57ecb4675e4fd3cf051efae7dbdfdeecab42d37e251fe4a9e8fb45af"
+  },
+  "prefix-anmachen-2": {
+    "text": "Er macht das Radio an.",
+    "voice": "de-DE-KatjaNeural",
+    "rate": "+0%",
+    "version": "94b101586f2a6e5dfe076d73953f0122dc750f1922c0961a21abec7be4c5d110",
+    "audioSha256": "1afa99edd41465b05ce659fa0482c501f39cc6d7f3301bfd6f024123c32ce992"
+  },
+  "prefix-aufstehen-1": {
+    "text": "Ich muss morgen früh aufstehen.",
+    "voice": "de-DE-KatjaNeural",
+    "rate": "+0%",
+    "version": "ffcd366ec1ead765c2a14b16acc47cb81ff19480288255498eda520bf87688d1",
+    "audioSha256": "f08b1fc66a6a25807c6b679a6a04d49160cbee58ac10f51bbaef1e017776f374"
+  },
+  "prefix-aufstehen-2": {
+    "text": "Sie steht jeden Tag um sechs Uhr auf.",
+    "voice": "de-DE-KatjaNeural",
+    "rate": "+0%",
+    "version": "ef1dd91282538f4b78e27876526a55d183dba545ca45333236e61c0791f1aa8a",
+    "audioSha256": "3c441fcab635003499053741041f64da777fa9f490703043e9f0a627e528648d"
+  },
+  "prefix-aufmachen-1": {
+    "text": "Kannst du bitte das Fenster aufmachen?",
+    "voice": "de-DE-ConradNeural",
+    "rate": "+0%",
+    "version": "9e51b0c9edc83af86c88182a0d962af6d0e6d8f4611add1b4d9ed0c7771988e8",
+    "audioSha256": "c0210ec85eace26277994c98a3f23ef0e4474610ef7f92aa44648a3a03707c25"
+  },
+  "prefix-aufmachen-2": {
+    "text": "Er macht die Tür auf.",
+    "voice": "de-DE-ConradNeural",
+    "rate": "+0%",
+    "version": "90ab36044f46c23a35e5aa889d83b208537608158c16ec60e595e3dc7d0db9b0",
+    "audioSha256": "a33030028c12f95b4a77e374679030908ee0354fccd0e0e9e50ef69a00f965fe"
+  },
+  "prefix-aufraeumen-1": {
+    "text": "Wir müssen vor dem Besuch aufräumen.",
+    "voice": "de-DE-KatjaNeural",
+    "rate": "+0%",
+    "version": "f817bb2c3e3fc4a485606e3d7cb4562b5a3fb69a8ba707ea0ee2f32c0cc675ec",
+    "audioSha256": "f2406c5cbcbd09dee56d315a1eac613b5519e8f664b2494a76f9915fc5c6a69b"
+  },
+  "prefix-aufraeumen-2": {
+    "text": "Sie räumt ihr Zimmer auf.",
+    "voice": "de-DE-KatjaNeural",
+    "rate": "+0%",
+    "version": "fce7464cf906cc8d385838d6735268936c00e55f822fe45f2f36ca1aaee6fee2",
+    "audioSha256": "e7710183de56582bd97cca134882592757b35ad8f0da9c51248bc4e9015d8337"
+  },
+  "prefix-ausmachen-1": {
+    "text": "Kannst du bitte das Licht ausmachen?",
+    "voice": "de-DE-KatjaNeural",
+    "rate": "+0%",
+    "version": "ac46dbb8b33d198a6a2dba974e7e24c3da64200e99b61c63c72da0d2bcfa71eb",
+    "audioSha256": "1b33d8aaf897986fc5c6e27446bf12c9b9e0e6ab78d773c2b94e1d22ce1888ce"
+  },
+  "prefix-ausmachen-2": {
+    "text": "Er macht den Fernseher aus.",
+    "voice": "de-DE-KatjaNeural",
+    "rate": "+0%",
+    "version": "667b35ff71d98671def318f0bc91b2156d966184f1906c4625e00150bc953a8b",
+    "audioSha256": "9d77a036014bd1d173b6b535e8812362b99f419fe9492de83d6ffec0217a8dbd"
+  },
+  "prefix-aussteigen-1": {
+    "text": "Wir müssen an der nächsten Haltestelle aussteigen.",
+    "voice": "de-DE-ConradNeural",
+    "rate": "+0%",
+    "version": "e290c93301ffc925d2ee0645a2fe45def4d7eaea233222be59c71eb3f68b3f1d",
+    "audioSha256": "6af287b10f9402c2e34c62930a34b140d888cf2f1ecd5555e678de7eb0884ccd"
+  },
+  "prefix-aussteigen-2": {
+    "text": "Sie steigt aus dem Bus aus.",
+    "voice": "de-DE-ConradNeural",
+    "rate": "+0%",
+    "version": "e691adefed04337a519a317fb350101f979dc75bffe982f26dc03405f9861173",
+    "audioSha256": "d72fbb70a09c97434eb92cbab840bb421d575327f9be2130417f5c620c3ebc54"
+  },
+  "prefix-auspacken-1": {
+    "text": "Ich möchte zuerst meinen Koffer auspacken.",
+    "voice": "de-DE-KatjaNeural",
+    "rate": "+0%",
+    "version": "0543e6d8a2f64c7ec4aa70724c73b0b9110147089e033ebecad295ac2580dcb4",
+    "audioSha256": "dfa5bcacaee8c2c56b73bcf67345d1dbddabb7547fe70bd082c536cfa42eddaf"
+  },
+  "prefix-auspacken-2": {
+    "text": "Er packt die Geschenke aus.",
+    "voice": "de-DE-KatjaNeural",
+    "rate": "+0%",
+    "version": "e9f11c884c1bc80127009e6131ec2a519dcc26e9248732098abfcb431a87b12b",
+    "audioSha256": "5548ca4a4acddcae67d9a3a04eee8687666ae7b6084fcc764fc11dd1ff512bfa"
+  },
+  "prefix-einsteigen-1": {
+    "text": "Wir können jetzt in den Zug einsteigen.",
+    "voice": "de-DE-KatjaNeural",
+    "rate": "+0%",
+    "version": "d6c30ad6b4f26be891be0b545e7519d975528610b468b47f40d5ec857c0bb632",
+    "audioSha256": "d11325d274a65679644d79ec7d6a2bd318ed8a6ca83794ccc076ab15416fcd80"
+  },
+  "prefix-einsteigen-2": {
+    "text": "Sie steigt in das Taxi ein.",
+    "voice": "de-DE-KatjaNeural",
+    "rate": "+0%",
+    "version": "fa59e7040036ab3c3f300e2ee1909727b7cb974945ae13158140624385bf821e",
+    "audioSha256": "f7ff60ea084920a7da4e9b3d6b307ebf66a55fab0efb43cc04dffca81e98b02d"
+  },
+  "prefix-einkaufen-1": {
+    "text": "Wir müssen noch Brot und Milch einkaufen.",
+    "voice": "de-DE-ConradNeural",
+    "rate": "+0%",
+    "version": "7ff35bc8613c81a6726704a4a65be7275e31fd1bb7011f8133c32b09f94bfd50",
+    "audioSha256": "e528ceb13aa78d51d162e4745bf7451111cc4920adeca5927b6695b25eeab00a"
+  },
+  "prefix-einkaufen-2": {
+    "text": "Er kauft jeden Samstag auf dem Markt ein.",
+    "voice": "de-DE-ConradNeural",
+    "rate": "+0%",
+    "version": "f3d2e0659cc9abbf264b185c21de68912e872599d929771b52ee734c7d8decfe",
+    "audioSha256": "44e73b3514791fea9d2325af341a44c7f799a6755b17c26a9b4a0d55ae5d2c90"
+  },
+  "prefix-einpacken-1": {
+    "text": "Ich muss die Geschenke noch einpacken.",
+    "voice": "de-DE-ConradNeural",
+    "rate": "+0%",
+    "version": "129ff312b15198fcb86ab44a580022a0904833c7c4ca16a31dbc03c9c574ca73",
+    "audioSha256": "926630887f0a85ca66c19afc8bd7fe6246b20bfe9d64747e88ad5bbb62a10a1f"
+  },
+  "prefix-einpacken-2": {
+    "text": "Sie packt das Buch als Geschenk ein.",
+    "voice": "de-DE-ConradNeural",
+    "rate": "+0%",
+    "version": "cfa72a1f1da976bd27c1277debeecfbf713c012c1ee6df5bdae6551665399e74",
+    "audioSha256": "6fcd385daae6910246352e65e1f439024e40693bc091e8ba70f06c6482fc29c0"
+  },
+  "prefix-mitkommen-1": {
+    "text": "Möchtest du ins Kino mitkommen?",
+    "voice": "de-DE-KatjaNeural",
+    "rate": "+0%",
+    "version": "f79ca24ce0f7f6e177cfb7f64f5355240d0a2240c0d5c7ad94f38efd4134708a",
+    "audioSha256": "a4a5f7e8a6c6311c4748e04c0e4de2c4b7bb6f417a546e65a0aec55452e3df6c"
+  },
+  "prefix-mitkommen-2": {
+    "text": "Mein Bruder kommt heute mit.",
+    "voice": "de-DE-KatjaNeural",
+    "rate": "+0%",
+    "version": "8ca60bb1e61b96a574ff6efb38c93b755bdb6b7768761549c4ac7ef7f5de09da",
+    "audioSha256": "2ff65e9e4f6a78a63e35d6ecb9b7f6c38f820687ffb35acf9edacd70c6a4094d"
+  },
+  "prefix-mitbringen-1": {
+    "text": "Kannst du einen Kuchen mitbringen?",
+    "voice": "de-DE-KatjaNeural",
+    "rate": "+0%",
+    "version": "9f7bf7c32c89ea74f03c59ddabe949a77e135a6491ba08ede2a67266ad3a7f80",
+    "audioSha256": "138873efc895b8a7f6d42935f417b23da46fcbee44f22c70e6923c77cdaa413c"
+  },
+  "prefix-mitbringen-2": {
+    "text": "Sie bringt ihre Gitarre mit.",
+    "voice": "de-DE-KatjaNeural",
+    "rate": "+0%",
+    "version": "d78bea4f629f2dbfe0fe00f2faf156873c49c877c106138aea59a5e77ab6e38b",
+    "audioSha256": "c67034a823c8aef11535a564f0af33206b5e4f45a0eb5ef40c6f8c6290ec6e4a"
+  },
+  "prefix-mitmachen-1": {
+    "text": "Alle dürfen bei dem Spiel mitmachen.",
+    "voice": "de-DE-ConradNeural",
+    "rate": "+0%",
+    "version": "423d09dd306f119ea74abaac2f7cb6966764eb454d5b24bae376e3e492a80a41",
+    "audioSha256": "bef42d530dbff0a61d7a652f5cd00010d86de3cddbed41362de5693db03343f5"
+  },
+  "prefix-mitmachen-2": {
+    "text": "Er macht bei der Übung mit.",
+    "voice": "de-DE-ConradNeural",
+    "rate": "+0%",
+    "version": "50fa352d8a656f9ae2cef7430bd7b2fd732d2c47cf5a507de263cca3f0509371",
+    "audioSha256": "807a5d02d4aa65f774408257aba819c8befb169f2a6c10f62d54478d4436bf88"
+  },
+  "prefix-nachfragen-1": {
+    "text": "Bei Unklarheiten kannst du jederzeit nachfragen.",
+    "voice": "de-DE-KatjaNeural",
+    "rate": "+0%",
+    "version": "0808f3b6c04ecfc99d03443eaea9958e036acff333ff86d8e580515d8f9c8425",
+    "audioSha256": "42f582b8417289fd8902accc409706056866a5a37833bc01ba6a89b8bc671e71"
+  },
+  "prefix-nachfragen-2": {
+    "text": "Sie fragt wegen der Kosten noch einmal nach.",
+    "voice": "de-DE-KatjaNeural",
+    "rate": "+0%",
+    "version": "12f5c0d45abef46a5ee82c7c362171a6359b785144b8c7118d41f97357bd989e",
+    "audioSha256": "66202ab1c041f6d4cbbb2b52f85347635c9dce91da099f94f79b4d9b8f437c34"
+  },
+  "prefix-nachmachen-1": {
+    "text": "Kannst du diese Bewegung nachmachen?",
+    "voice": "de-DE-ConradNeural",
+    "rate": "+0%",
+    "version": "e0c758cd19eb1d8ebde381d5ace83d16c9ecf09496a04aaaab8eb2eaf5866d49",
+    "audioSha256": "a2b9132548da0c96547ba8c0ce06fcbbdb01989c5dfae54587fd2a598bc35828"
+  },
+  "prefix-nachmachen-2": {
+    "text": "Das Kind macht die Tiergeräusche nach.",
+    "voice": "de-DE-ConradNeural",
+    "rate": "+0%",
+    "version": "0fe782aa4970d26f449fdc5046f5b7023016988e9c1d61498a9ce5a0bcde21bf",
+    "audioSha256": "a50c96e809cef5b5408375a5be5402223e47f9bf19a037d9c4620f12b34216f3"
+  },
+  "prefix-nachlesen-1": {
+    "text": "Du kannst die Regel im Buch nachlesen.",
+    "voice": "de-DE-KatjaNeural",
+    "rate": "+0%",
+    "version": "ecff84cc6703372ad10be65f34e9bb73045d43f3492fdfccb356bb77cf0f2566",
+    "audioSha256": "b0735baa345b5b2653aa2b72bbb23b3896783266da42a9fa386bedfbc49061ae"
+  },
+  "prefix-nachlesen-2": {
+    "text": "Er liest die Einzelheiten im Vertrag nach.",
+    "voice": "de-DE-KatjaNeural",
+    "rate": "+0%",
+    "version": "3fedb577d7a500c0a1bb79795191fd7702de01814e6884d499ece05eea3839e8",
+    "audioSha256": "eb56647b231f34f57cd07f109a33fa0396e26bb3f7087aff0ec98b8a9d545558"
+  },
+  "prefix-vorlesen-1": {
+    "text": "Kannst du mir die Geschichte vorlesen?",
+    "voice": "de-DE-ConradNeural",
+    "rate": "+0%",
+    "version": "77935479f6dfbe58e08a81f3ca8ef959da89722f316c2b9abce2dbc9c35f3e92",
+    "audioSha256": "920a95a102b8fbdb865b173b72c57e5d73c72dbe46db1bd18a6afeb220b21d43"
+  },
+  "prefix-vorlesen-2": {
+    "text": "Sie liest den Kindern ein Märchen vor.",
+    "voice": "de-DE-ConradNeural",
+    "rate": "+0%",
+    "version": "6323a1bb9dc3f83a3b79937b1ee343eccc5ff9046770872857baede073c52ef0",
+    "audioSha256": "a20c4c192466869a27d1196b2295de54b0468cd7c2c0a122aabfbfe60e9eb101"
+  },
+  "prefix-vorbereiten-1": {
+    "text": "Wir müssen die Sitzung vorbereiten.",
+    "voice": "de-DE-KatjaNeural",
+    "rate": "+0%",
+    "version": "9fc9de7a64098be1790c1901e8e5a96a63cd1dfa5aeb96875234422a07714467",
+    "audioSha256": "631171e0710473747accf4f324e7a7dd505e5f7b2a4ebc54b557ae0ff6285a32"
+  },
+  "prefix-vorbereiten-2": {
+    "text": "Er bereitet das Abendessen vor.",
+    "voice": "de-DE-KatjaNeural",
+    "rate": "+0%",
+    "version": "f7249f847cf27209cc279b641c7768c73d9bb6dc3d38aecdfcecd8d408ce7471",
+    "audioSha256": "c8b7fef33178f92bd73d2f01d23119842dd5b2fea7ce5088d3ceb1ed742c3822"
+  },
+  "prefix-vormachen-1": {
+    "text": "Kannst du mir die Übung vormachen?",
+    "voice": "de-DE-KatjaNeural",
+    "rate": "+0%",
+    "version": "df136078c3494b90e92112ad053f9ec6f31a17c156de6a2e67b0d2fbe54aabaa",
+    "audioSha256": "3d8bcf1f88e65d08d59cb83e7a669a7feb77477db66c7552dd1cdaa73cc9bb3d"
+  },
+  "prefix-vormachen-2": {
+    "text": "Die Lehrerin macht die Bewegung vor.",
+    "voice": "de-DE-KatjaNeural",
+    "rate": "+0%",
+    "version": "d348d04344667d7307796f2197656b729ff246a2bf8d0a5a5e9b914cc9356d78",
+    "audioSha256": "32fb897d831488c9fd80e9d1678a9833da884c032ab905ae61b7a892143d7e2c"
+  },
+  "prefix-zumachen-1": {
+    "text": "Bitte das Fenster zumachen, es ist kalt.",
+    "voice": "de-DE-KatjaNeural",
+    "rate": "+0%",
+    "version": "12df784d6dc1e49bb37143860df28648f340c4b391487b20f523ed12e816c18a",
+    "audioSha256": "398f71c3ac89a9007b927658a618496622994f4482db8c8b0da8e3ae310012c0"
+  },
+  "prefix-zumachen-2": {
+    "text": "Sie macht die Tür zu.",
+    "voice": "de-DE-KatjaNeural",
+    "rate": "+0%",
+    "version": "c124535331e6d121d7f787ec7d6eda1772e07505f61fabb3e1ff0f12e6bf5feb",
+    "audioSha256": "ca4189e31985486bb61f11b3dac77effc6a8d7ba9588cf9fb3939876336a8fa8"
+  },
+  "prefix-zuhoeren-1": {
+    "text": "Du solltest deiner Schwester zuhören.",
+    "voice": "de-DE-ConradNeural",
+    "rate": "+0%",
+    "version": "f1e7b99ad855a454c8a486f5294829d146eb3de1092908adae0480a28cc75385",
+    "audioSha256": "04c22188e6eae7d486ed7f46135631818c20cb259ba591783baeb14d4ddea41d"
+  },
+  "prefix-zuhoeren-2": {
+    "text": "Er hört der Lehrerin aufmerksam zu.",
+    "voice": "de-DE-ConradNeural",
+    "rate": "+0%",
+    "version": "365fd77fd706a864a962f5add9894d383fdb99d31e4db0df267a417fb7a8c61e",
+    "audioSha256": "95a802c6ca8f2c811b9b58f4e955a0a34b6e19f6604075018181e99777d0c041"
+  },
+  "prefix-zunehmen-1": {
+    "text": "Nach der Krankheit möchte er wieder zunehmen.",
+    "voice": "de-DE-ConradNeural",
+    "rate": "+0%",
+    "version": "eccc1bcb87affc6856dcfc7e11640e41da094a69ebeba2044826829d24f2f3b9",
+    "audioSha256": "bf9143326f550bc233ee7ba8f6df3430aea863428e5fcecf9f31a58e6da9c284"
+  },
+  "prefix-zunehmen-2": {
+    "text": "Das Baby nimmt langsam zu.",
+    "voice": "de-DE-ConradNeural",
+    "rate": "+0%",
+    "version": "4a1860cb953e9d43654ada9f45f23ff4040b1a43729788d14bd9cb0070028275",
+    "audioSha256": "5292e569cadc9abdffe0a16461dae9f4b0211debb1bceaba8348609ae0af2fb7"
+  },
+  "prefix-zurueckkommen-2": {
+    "text": "Sie kommt morgen zurück.",
+    "voice": "de-DE-ConradNeural",
+    "rate": "+0%",
+    "version": "2c2739ca05bc5e5d5f04bb2568fe194f6207b2bb9b69abbdb3f09e9c56f97fa8",
+    "audioSha256": "18a014619e40a5c7c30c9a91ba3b795add15f21dadaeae7a5676c4bc2b8d4890"
+  },
+  "prefix-zurueckkommen-1": {
+    "text": "Wann wirst du aus Berlin zurückkommen?",
+    "voice": "de-DE-ConradNeural",
+    "rate": "+0%",
+    "version": "ad3d018bd8b9757bad9441c2d54a2c6dbe4c6638e10aeef7770360facffbd7e4",
+    "audioSha256": "43520d826d71199715d2546676653d3a99709724622dcb26d75389f92cfa7dab"
+  },
+  "prefix-zurueckrufen-1": {
+    "text": "Kannst du mich später zurückrufen?",
+    "voice": "de-DE-KatjaNeural",
+    "rate": "+0%",
+    "version": "7edc2d9cf4798e145d26fae2100f859a6ed7e82b37c24f6e1dcded141be00485",
+    "audioSha256": "4c840a18795034649a8e234d9dd35013424d3a697684695acf3f563529dbd766"
+  },
+  "prefix-zurueckgeben-2": {
+    "text": "Er gibt mir den Schlüssel zurück.",
+    "voice": "de-DE-ConradNeural",
+    "rate": "+0%",
+    "version": "8f18d570af2df86e1832aaa64d3257e1496cfc7fc42a6ac2271e545a8660403e",
+    "audioSha256": "576401e2229c29b0277ca61e16c8d8389a253080659529b7ceba25192c7ddd2b"
+  },
+  "prefix-zurueckgeben-1": {
+    "text": "Ich muss das Buch morgen zurückgeben.",
+    "voice": "de-DE-ConradNeural",
+    "rate": "+0%",
+    "version": "9a2c95d894c1e9d246fe0705e2d8fc873f636b18ad6a1737c9e3d80f72a250d7",
+    "audioSha256": "4505116410619ae6bd586ee2c589b5358e574961eb29757f5dc934111b990d8d"
+  },
+  "prefix-zurueckrufen-2": {
+    "text": "Sie ruft nach dem Essen zurück.",
+    "voice": "de-DE-KatjaNeural",
+    "rate": "+0%",
+    "version": "6416e3c9b2b640054db48b232ade23e91362c01136e249f6beb43dc1800abfba",
+    "audioSha256": "04343ed6d731e52e01c1380334dc97d902c9ce7e95d2cce327d2dbbd6db551bf"
+  },
+  "prefix-weggehen-1": {
+    "text": "Ich möchte noch nicht weggehen.",
+    "voice": "de-DE-ConradNeural",
+    "rate": "+0%",
+    "version": "2663587b89c6042685dcf7d712177d70d92a919469ca2c21af5852bf36e92fc0",
+    "audioSha256": "6d0c9a989d878fe7f42fec6f9ecd300e26cdbfae3c6276f9f4e8a5a69783ec60"
+  },
+  "prefix-weggehen-2": {
+    "text": "Er geht ohne ein Wort weg.",
+    "voice": "de-DE-ConradNeural",
+    "rate": "+0%",
+    "version": "0281f3f97acfb26aa6a8f643b162be1c1d0482d6600fc53bcd478256e8621e67",
+    "audioSha256": "73ce68628a8d4fe12aa8f533f2c247268e8a11c172e5a46f669db8a52ab41e45"
+  },
+  "prefix-wegwerfen-1": {
+    "text": "Du solltest die kaputte Tasse wegwerfen.",
+    "voice": "de-DE-ConradNeural",
+    "rate": "+0%",
+    "version": "d396da9565c0602c6987edd662eb83a283cbc6ca6e1aa2b306386d79c372fa50",
+    "audioSha256": "e585f12f5a50f04c7e48272e00ab0d65406c1837591df72cdacca4d541449282"
+  },
+  "prefix-wegwerfen-2": {
+    "text": "Sie wirft den alten Zettel weg.",
+    "voice": "de-DE-ConradNeural",
+    "rate": "+0%",
+    "version": "4cd5a6c3a6d8c1180d0818b943a21ca35d1f007d208dae51a28cd5902ecc83ad",
+    "audioSha256": "19cb884f17be8f9a9e83d03a7dab4c49d07c9334fc7dc1092a13ea7351b2a00c"
+  },
+  "prefix-wegbringen-1": {
+    "text": "Kannst du bitte den Müll wegbringen?",
+    "voice": "de-DE-ConradNeural",
+    "rate": "+0%",
+    "version": "b08e3796aa22267d8a5eb81d08729bfd6a0b1b0ea2a123649f451caba9d3a4d1",
+    "audioSha256": "c38c2ba3823650f47601d1cbd820e145af7bd9f341ca66e4685c0575c71a6b90"
+  },
+  "prefix-wegbringen-2": {
+    "text": "Er bringt die leeren Flaschen weg.",
+    "voice": "de-DE-ConradNeural",
+    "rate": "+0%",
+    "version": "f72ecfb21ea09c365974e0eead7467a801422fe813c489085b0b6d1d681c35d7",
+    "audioSha256": "e26493c1e0ccea06f08ca685aba30733c715ab3ed8364e7a662cc2991c6a1fed"
+  },
+  "prefix-losfahren-2": {
+    "text": "Sie fährt gleich los.",
+    "voice": "de-DE-ConradNeural",
+    "rate": "+0%",
+    "version": "a196c066aacd218600864889e644f710828772f709e6a2d42e3b58ddf5984dd1",
+    "audioSha256": "555c96ca98de58c5448914d19f71723ec1420aded61b4676e9bf209fd216cc8c"
+  },
+  "prefix-losfahren-1": {
+    "text": "Wir sollten vor dem Berufsverkehr losfahren.",
+    "voice": "de-DE-ConradNeural",
+    "rate": "+0%",
+    "version": "448d7e9a7fbd5329d8e09043c3d351e46cd4107ccb6fb2aa993a7f899bbf548f",
+    "audioSha256": "ad7a6a64372a1e62ca8063605fad063f8e81fa82cfbc508c1bf1da2e09694778"
+  },
+  "prefix-losgehen-2": {
+    "text": "Er geht früh zur Arbeit los.",
+    "voice": "de-DE-KatjaNeural",
+    "rate": "+0%",
+    "version": "6c24a34791866244b17607a553501a305934b8c00612ce3cf5ca73afd65f95d0",
+    "audioSha256": "7e9e80165ebca06c44bb170ceea3317582ccdcfdaa3cec32117e9a702131f050"
+  },
+  "prefix-losgehen-1": {
+    "text": "Wir müssen jetzt losgehen, sonst kommen wir zu spät.",
+    "voice": "de-DE-KatjaNeural",
+    "rate": "+0%",
+    "version": "f592641a1efb3a5d53fd8fbf0cf41e19eb0b403a145bffa02261a7383ba7256d",
+    "audioSha256": "252fa2fd9db22fef86df8d62d12412f4f4e20d2614c07c525ec29834a1b39559"
+  },
+  "prefix-loslassen-1": {
+    "text": "Du kannst meine Hand jetzt loslassen.",
+    "voice": "de-DE-ConradNeural",
+    "rate": "+0%",
+    "version": "c7550f71b068971a970e8393a5fd91d7001224d92cab687106b63c60be9eb8b7",
+    "audioSha256": "b357856765a3a57386fd5daff18fac93bf0ebf1a2279be7a24fed759667665f9"
+  },
+  "prefix-loslassen-2": {
+    "text": "Sie lässt das Seil los.",
+    "voice": "de-DE-ConradNeural",
+    "rate": "+0%",
+    "version": "22e7d136bcb2df20d79dd2eb778369bc342c35aa95b7f22e98f834d6e592b946",
+    "audioSha256": "40b5856c1fb571cd66034d009376816c4c15fb23c2cd74163678627d03dc252c"
+  },
+  "prefix-beibringen-2": {
+    "text": "Sie bringt ihrem Sohn Schwimmen bei.",
+    "voice": "de-DE-KatjaNeural",
+    "rate": "+0%",
+    "version": "5b3bd66192d6cb260c8730a097e9096f1a3053fd4c607561cc8e4e34171a7956",
+    "audioSha256": "8cf84f2b06f2780697d6942c85c19b659c8abb3a8506b367dd30969f7489b2d6"
+  },
+  "prefix-beibringen-1": {
+    "text": "Kannst du mir Schach beibringen?",
+    "voice": "de-DE-KatjaNeural",
+    "rate": "+0%",
+    "version": "2d9a006d71f119e8863a8db71fc1f7fa18dec7eab8f0c09183907178a97d8fc9",
+    "audioSha256": "f84b196d8b1d9824fcbb34fa1b6736f968a9800d26f4da0fa9efba1915460276"
+  },
+  "prefix-beitragen-1": {
+    "text": "Alle können zum Erfolg beitragen.",
+    "voice": "de-DE-KatjaNeural",
+    "rate": "+0%",
+    "version": "51cc91f0fd209e064227227202383773eb5f378efe3e7958f1ce2bc78407324f",
+    "audioSha256": "84fc5859785b5f1d3571805c10bb0af58c299b801f7bdb1ee0e78487ca01970f"
+  },
+  "prefix-beitragen-2": {
+    "text": "Er trägt zu den Kosten bei.",
+    "voice": "de-DE-KatjaNeural",
+    "rate": "+0%",
+    "version": "d3bb3c88ff557411b1fe1261873583e3c99ae244034301b0b12246bc62a52407",
+    "audioSha256": "04920ba2a91d6825d1cd50eab9fe43236b65d5f0d8d897d1eb536f22a4187495"
+  },
+  "prefix-beitreten-1": {
+    "text": "Ich möchte dem Verein beitreten.",
+    "voice": "de-DE-ConradNeural",
+    "rate": "+0%",
+    "version": "c5af471e9e1431ba20ea2d9e7d36cdbe46bcc660910f7a28cf124c6705c87cd6",
+    "audioSha256": "93bb0b7894fcb0c255e3d45c31a7b18c98c9f8e53efdd14cde754adb5917e528"
+  },
+  "prefix-beitreten-2": {
+    "text": "Sie tritt einer Partei bei.",
+    "voice": "de-DE-ConradNeural",
+    "rate": "+0%",
+    "version": "df42966ee7d5db23bdf021c101ed7d93c70f80e27980655234ee2d370d9ab512",
+    "audioSha256": "d033513c09aef1591cfd6bf883651b682b41c7081e5f7af86d6792092a597d90"
+  },
+  "prefix-bezahlen-1": {
+    "text": "Ich möchte die Rechnung bezahlen.",
+    "voice": "de-DE-KatjaNeural",
+    "rate": "+0%",
+    "version": "012b29bb68bf16d092646e863ae4a3571077e9f26fa2f0627b4f4129e2502887",
+    "audioSha256": "c14d33790a19b22ec92911cbdecf391068f85f77364fbd991ef072ac4de5ff76"
+  },
+  "prefix-bezahlen-2": {
+    "text": "Sie bezahlt mit ihrer Karte.",
+    "voice": "de-DE-KatjaNeural",
+    "rate": "+0%",
+    "version": "e61bdb3c70bc867a43c3db431baaadcd4908fa2e1bd99e7494fcef271e40998a",
+    "audioSha256": "d0992eff37c75b780a5d687b8504e3930f4b595974e33a2e223a761e95b6b623"
+  },
+  "prefix-besuchen-1": {
+    "text": "Wir wollen unsere Freunde besuchen.",
+    "voice": "de-DE-KatjaNeural",
+    "rate": "+0%",
+    "version": "82f8c9fd235548ad95683ab5952a7df1773c55463d8d6a4bc0ffb014c973c6af",
+    "audioSha256": "d2697178f1540d1b7f9f3e1994db142afb662cee6ae1f090a269f1f060ab56e3"
+  },
+  "prefix-besuchen-2": {
+    "text": "Er besucht seine Tante im Krankenhaus.",
+    "voice": "de-DE-KatjaNeural",
+    "rate": "+0%",
+    "version": "2360c3f1934f1d65b91b85d63880367657773efe0315d21641e30218e77380f3",
+    "audioSha256": "723eca0c7a07c7284b0cb2dde1b6fe0dcc7fc236fc309c6335804a5f0ecffc74"
+  },
+  "prefix-bekommen-1": {
+    "text": "Ich hoffe, bald eine Antwort zu bekommen.",
+    "voice": "de-DE-ConradNeural",
+    "rate": "+0%",
+    "version": "cb2709eff6a3ffe4f0d8887f67afa582d88667b9321029e7c31f971e33ed2de7",
+    "audioSha256": "6f2386cce074dd154e368f0576604d5332c488a775e59ebceaf853b71267a37e"
+  },
+  "prefix-bekommen-2": {
+    "text": "Sie bekommt ein Paket.",
+    "voice": "de-DE-ConradNeural",
+    "rate": "+0%",
+    "version": "1292d868a37296429e065ddf2ae482776eaba46680f4c75dd73ce74392e0b507",
+    "audioSha256": "21abb9a16cbce359c7deb1cf646217526d4264856bc5e161262e0ce55fed9dec"
+  },
+  "prefix-empfehlen-1": {
+    "text": "Kannst du ein gutes Restaurant empfehlen?",
+    "voice": "de-DE-ConradNeural",
+    "rate": "+0%",
+    "version": "1c5c807075f03c190149136ce2d9506ad0b79110031d2e861f1a9d10d46187e1",
+    "audioSha256": "8e9a30f7bfbaf611a37a4eb3ad315180eb0abd0034b423453a8e0addc4682af2"
+  },
+  "prefix-empfehlen-2": {
+    "text": "Sie empfiehlt mir ein Buch.",
+    "voice": "de-DE-ConradNeural",
+    "rate": "+0%",
+    "version": "9e417f2c6cc6924adc2eb6e35f5146e8c749776b31d8fe1a2c9b273d08546c34",
+    "audioSha256": "70b862fd7e893a9673ebe29b41f8e30237eff23aa8cf285ad78f6c5e2c4cbcc1"
+  },
+  "prefix-empfangen-1": {
+    "text": "Wir wollen unsere Gäste freundlich empfangen.",
+    "voice": "de-DE-KatjaNeural",
+    "rate": "+0%",
+    "version": "f5603dfe6cbe24b026ff5b400cc94104d2e0a3ee162ae2699a2ffa4728a6dd84",
+    "audioSha256": "a379573442dac4124e59f81d8014d0e1e2395095f86a6c08866ee79321cb0dad"
+  },
+  "prefix-empfangen-2": {
+    "text": "Er empfängt die Besucher am Eingang.",
+    "voice": "de-DE-KatjaNeural",
+    "rate": "+0%",
+    "version": "eb383eec00f8bb57228d6cbcbdcab89f3c754ca5e4a86b5bf3f0c1df0f2c439d",
+    "audioSha256": "8616d339bc7214751e7e3e90b1aded9c81c2f077c0da9e1ca664997e9ef97c32"
+  },
+  "prefix-empfinden-1": {
+    "text": "Viele Menschen empfinden Lärm als störend.",
+    "voice": "de-DE-ConradNeural",
+    "rate": "+0%",
+    "version": "97c7b86b526940a5aa9f772c29ae16483e7c7568fd498b5940a245bf0ce3acfe",
+    "audioSha256": "8b41475eda0a5a9d9688cb9cc155c5efabc9f417ac6713f0d7a561a17bcb72a6"
+  },
+  "prefix-empfinden-2": {
+    "text": "Sie empfindet große Freude.",
+    "voice": "de-DE-ConradNeural",
+    "rate": "+0%",
+    "version": "a5a824bdad77d2ae27335cf0af88ea1e01372b718cf65407bb7841c6c3df0362",
+    "audioSha256": "8666556dd879a6585d84f9577022ea2505f1eb5db5e1b1d225ced2a79a554532"
+  },
+  "prefix-entdecken-1": {
+    "text": "Wir möchten die Stadt zu Fuß entdecken.",
+    "voice": "de-DE-KatjaNeural",
+    "rate": "+0%",
+    "version": "bdb817c67a41d6660e870ea700ad8d217c51a73ca0ca4c710ea61d2908220490",
+    "audioSha256": "7422698233e7fdf03a3a174ee6f567acd1dd45908659a39d0c853d050f3582bf"
+  },
+  "prefix-entdecken-2": {
+    "text": "Er entdeckt einen Fehler im Text.",
+    "voice": "de-DE-KatjaNeural",
+    "rate": "+0%",
+    "version": "1dc38ae01c011230be1976667e1374f0a75316699c6ff13aa74a9495f3af6fe7",
+    "audioSha256": "aa8d08ec4958cdc41b00084d47cc457b41f1cbf69c8a6f074f7f69b87e3fed31"
+  },
+  "prefix-entfernen-1": {
+    "text": "Du musst zuerst den Fleck entfernen.",
+    "voice": "de-DE-KatjaNeural",
+    "rate": "+0%",
+    "version": "083551c4757e65b747906beb411d18d76dec1a4f549cac9b1cf6596c71674851",
+    "audioSha256": "b5154632f9de499e68f07ae4393388c6b8883b4af70f4f9721bf26b3669caa44"
+  },
+  "prefix-entfernen-2": {
+    "text": "Sie entfernt das Etikett.",
+    "voice": "de-DE-KatjaNeural",
+    "rate": "+0%",
+    "version": "1be29c11c0813e591cf0f4e8a152e323adccbcd7fab61f02da4cb11dd8312e1b",
+    "audioSha256": "228fe0c01f89b78c878c1ac0856016aba5b204026cff2cde0c7ff69d336ac548"
+  },
+  "prefix-entladen-1": {
+    "text": "Wir müssen den Lastwagen entladen.",
+    "voice": "de-DE-KatjaNeural",
+    "rate": "+0%",
+    "version": "9cfc5172a8c2b9846fe518733191571678c40e1d896c6c1ef3804d5d3f9c786f",
+    "audioSha256": "fe94553921cc63c76a72fc67295ceefe9c0a24f7a33c4bb26c460b2d89e4a35a"
+  },
+  "prefix-entladen-2": {
+    "text": "Er entlädt das Fahrzeug.",
+    "voice": "de-DE-KatjaNeural",
+    "rate": "+0%",
+    "version": "4e17e39faf1d61c436599e43b3adf70ec3300abc6339b678a82812ccf8bdfcc9",
+    "audioSha256": "5c8b73646a5e801af0d9b41423cee505057f231633a4a9b6fe67421083d75f43"
+  },
+  "prefix-erklaeren-1": {
+    "text": "Kannst du mir die Regel erklären?",
+    "voice": "de-DE-KatjaNeural",
+    "rate": "+0%",
+    "version": "f01a376b4307b17b62f7b9f71cd0ad887e196da786bdcc7049c7089798fbe1d9",
+    "audioSha256": "aea121c41ad94c43d95c838f459080f6bd627f31019017d3a45fcbe8cdb09985"
+  },
+  "prefix-erklaeren-2": {
+    "text": "Sie erklärt den Weg zum Bahnhof.",
+    "voice": "de-DE-KatjaNeural",
+    "rate": "+0%",
+    "version": "9423c28499e6cb6f542cd1a883e9f01cb75ca995e813cf084a0c31a6a0d8f8da",
+    "audioSha256": "d4b3287db1fcc76dafa4da4c8465dcc53c1a733aa562a7350497f5b17d97af69"
+  },
+  "prefix-erreichen-1": {
+    "text": "Wir wollen unser Ziel heute erreichen.",
+    "voice": "de-DE-KatjaNeural",
+    "rate": "+0%",
+    "version": "4d749d1290dff3c646103fd1583e70dc1f7672c568c74f485f52cc6bd95da755",
+    "audioSha256": "b9402a18c0f54ec1f19cd3abd919faa7c98bba5d52ffcd9331424024f5b1b0cf"
+  },
+  "prefix-erreichen-2": {
+    "text": "Er erreicht den Gipfel am Mittag.",
+    "voice": "de-DE-KatjaNeural",
+    "rate": "+0%",
+    "version": "6120d59fdcbca9588f94d24aa71cebd849bf3797bc87d353070712a428f47e5a",
+    "audioSha256": "21f93d9a322e81e0a1d182a32425a9637dc31c0b659558f1f6307a5de31757c0"
+  },
+  "prefix-erkennen-1": {
+    "text": "Kannst du die Person auf dem Foto erkennen?",
+    "voice": "de-DE-ConradNeural",
+    "rate": "+0%",
+    "version": "08b4fc6474d187dc00605531cab52cc4951dcc406e6193265be827c18b666ca7",
+    "audioSha256": "53efac2ef41d90e89df583cbbff323c4bda94add7e36e08cabc74dee0b7a2d62"
+  },
+  "prefix-erkennen-2": {
+    "text": "Sie erkennt ihren alten Lehrer sofort.",
+    "voice": "de-DE-ConradNeural",
+    "rate": "+0%",
+    "version": "8c0850ad081bf217799a9651ca10a36c1701889c9048e22490cd99cd94a7089b",
+    "audioSha256": "15654585bd7ecbfb3ccea7fc598ed349622792a6ea6f8d520eb5d36173899851"
+  },
+  "prefix-gefallen-2": {
+    "text": "Die Wohnung gefällt ihm gut.",
+    "voice": "de-DE-ConradNeural",
+    "rate": "+0%",
+    "version": "e97200b019cc67859f9c3096058c98f1e6029b86c3b71b0e08d9a230e13e9f1d",
+    "audioSha256": "2ab40438e43c51896e7d0cdffebc079ff3e40a4d8528ab1754ef750ef79fc06a"
+  },
+  "prefix-gefallen-1": {
+    "text": "Das Geschenk wird dir bestimmt gefallen.",
+    "voice": "de-DE-ConradNeural",
+    "rate": "+0%",
+    "version": "ce0625e49911d88aaa92ad5dee7da60866a2ed7595e2138de302109d5be9ab43",
+    "audioSha256": "2284450bea5d122d4b5f247bf7c7ffff620b2f45bf2a396540374d9a2bb3b4fa"
+  },
+  "prefix-gehoeren-1": {
+    "text": "Wem könnte dieser Schlüssel gehören?",
+    "voice": "de-DE-KatjaNeural",
+    "rate": "+0%",
+    "version": "ae68ace4ae35183dcb1ec85d43de35900b5201ecd35b82fe09c04ba775c5b28a",
+    "audioSha256": "821882e84a1d3f590441c7639758099e9e613ef91fc4f474ce8712eeaa9ba6d3"
+  },
+  "prefix-gehoeren-2": {
+    "text": "Das Fahrrad gehört meiner Schwester.",
+    "voice": "de-DE-KatjaNeural",
+    "rate": "+0%",
+    "version": "f29d81b3b5b47287cd97ad6bb9d703c2f07128a524e1691d8ab13218d306dd12",
+    "audioSha256": "6d1afaa208e0ce21319217df8fe7ea3a9452665cf2226520905934af59165080"
+  },
+  "prefix-gelingen-1": {
+    "text": "Der Kuchen wird dir bestimmt gelingen.",
+    "voice": "de-DE-KatjaNeural",
+    "rate": "+0%",
+    "version": "8fe05f6d61d1c2b871d4dd91b61f19c9772c56314fbeb866e07126a9609a4dfe",
+    "audioSha256": "c6d8e435a023c958c73f79189c38e5c412bc5bba3431ee0b2f76797b8f88b659"
+  },
+  "prefix-gelingen-2": {
+    "text": "Das Experiment gelingt beim zweiten Versuch.",
+    "voice": "de-DE-KatjaNeural",
+    "rate": "+0%",
+    "version": "653fdbdfe130e0700ec3827a0b74481b5868d2cee13b7eb0e2c7c850c38bc50d",
+    "audioSha256": "fad615cb1609974bc3fefddda1a22c19c5cec5c4b4861239db08bd5cb127ae8b"
+  },
+  "prefix-missverstehen-1": {
+    "text": "Ich möchte deine Nachricht nicht missverstehen.",
+    "voice": "de-DE-ConradNeural",
+    "rate": "+0%",
+    "version": "c8fd02b4cdd0d6f0423f31e901c5f4f1235b00ff329cd7b8fd5c7b43af7bd6d2",
+    "audioSha256": "aeac034f70a697c43facb791171ac4837187b0efe47a0c7da239d97f92459a31"
+  },
+  "prefix-missverstehen-2": {
+    "text": "Er missversteht meine Frage.",
+    "voice": "de-DE-ConradNeural",
+    "rate": "+0%",
+    "version": "2f5b72eb1e009c4ac7dd5cdcf7c2c4ad6b457de3347ce0a00bb500fc3f6f9273",
+    "audioSha256": "a49289d872ba3b69e71f74c147f7e4e039fc1df94d4b79be4590e476d4e14763"
+  },
+  "prefix-missachten-1": {
+    "text": "Niemand darf die Sicherheitsregeln missachten.",
+    "voice": "de-DE-KatjaNeural",
+    "rate": "+0%",
+    "version": "f2eaa83f36c999594433fecf11aae5a4dbb5fcf3940a77948ac66ff5b67dc682",
+    "audioSha256": "fcede8b6bb88548a80285239c8a151de91bee4928f53ca75cccc923bfd370e1b"
+  },
+  "prefix-missachten-2": {
+    "text": "Sie missachtet das Verbot.",
+    "voice": "de-DE-KatjaNeural",
+    "rate": "+0%",
+    "version": "334b6070707ddb247fc9b545d33e7aefbde213d620363ab1265d8477fef2eba0",
+    "audioSha256": "7bd38e78040ddcf65f2925707f18ddd1da56a02dc3a6bb5ca840e7be29c3e1bf"
+  },
+  "prefix-misslingen-1": {
+    "text": "Ohne genaue Planung kann der Versuch misslingen.",
+    "voice": "de-DE-KatjaNeural",
+    "rate": "+0%",
+    "version": "a4684314f8d900d7d2ce4a3ed3846d6c8978e324f85baa9515319c42557fbf62",
+    "audioSha256": "ad759036e9ae1061317dc2443b603e58db5e01797cb85bc1a965b696cbd8c040"
+  },
+  "prefix-misslingen-2": {
+    "text": "Der Kuchen misslingt ihm leider.",
+    "voice": "de-DE-KatjaNeural",
+    "rate": "+0%",
+    "version": "dfbfcccb687d2303b08a5c3f2fd8bbfddd1fa7e59e5dea8ba9eb7795059e1309",
+    "audioSha256": "a0e7e70b19c3ed29c344b644cac9f30c7d8cfcca69eaabdf2e4223dcfe81589f"
+  },
+  "prefix-verkaufen-1": {
+    "text": "Ich möchte mein altes Fahrrad verkaufen.",
+    "voice": "de-DE-KatjaNeural",
+    "rate": "+0%",
+    "version": "efab7191208522c4d77aeb62d61a1dbd3bd1bc8c7b36bdad7c553801bd2bfd75",
+    "audioSha256": "1fb9dadd883572b5383585402aee9c0e973c1f394dacdc03a2f3c6957dc0541a"
+  },
+  "prefix-verkaufen-2": {
+    "text": "Sie verkauft selbst gebackenes Brot.",
+    "voice": "de-DE-KatjaNeural",
+    "rate": "+0%",
+    "version": "5b44f1dd75b4b78929d9afbc2ace1409cb7ce56214369f7e7b43edc415fc1e82",
+    "audioSha256": "78d3a358a6ad62b74f06b105109789c26c0c44ff098a1f3fe4b6e14464290b6f"
+  },
+  "prefix-verstehen-1": {
+    "text": "Ich kann die Frage nicht verstehen.",
+    "voice": "de-DE-ConradNeural",
+    "rate": "+0%",
+    "version": "3f3eb597c107101eb963c420cdcb6c47c8a5563ca955e0cb5f3717c854362454",
+    "audioSha256": "cb5318e2f26f2ab069b370b45eb29ee8a0a55237b6214ffb5be908e65a458387"
+  },
+  "prefix-verstehen-2": {
+    "text": "Er versteht die Erklärung sofort.",
+    "voice": "de-DE-ConradNeural",
+    "rate": "+0%",
+    "version": "ec253b81b77286cff217429565d9c6155742f5a2698c8b625048eaadcb8c1a15",
+    "audioSha256": "893094dd8c4b3c5a4e1674cb9f8d1c59ab17341c415dde4abccdfd14fe44ea70"
+  },
+  "prefix-verlieren-1": {
+    "text": "Pass auf, du darfst den Schlüssel nicht verlieren.",
+    "voice": "de-DE-ConradNeural",
+    "rate": "+0%",
+    "version": "90759919eb944afe7a41446defe552a9c914facd87ec026a1e6454b72b956924",
+    "audioSha256": "20a1f8c91f8c8a05e8b6a9ba803273655dfebd5f508858b4d4d0b407f7cff6e3"
+  },
+  "prefix-zerbrechen-1": {
+    "text": "Du könntest das dünne Glas zerbrechen.",
+    "voice": "de-DE-ConradNeural",
+    "rate": "+0%",
+    "version": "cd5eff1b8d5d6ff2e0b01386a9790f8725945be16729cddef62b752170cb6c2e",
+    "audioSha256": "284164b8b66b64bc195391cc1c14e512fbdd43c806786c083a82441c34a8a067"
+  },
+  "prefix-verlieren-2": {
+    "text": "Sie verliert beim Spielen oft die Geduld.",
+    "voice": "de-DE-ConradNeural",
+    "rate": "+0%",
+    "version": "40972e99fea5bdd16550b680d91988068ba3e6452f5365b71ff88e299e7dddc8",
+    "audioSha256": "f333805c13acdadac70cdca1f18c1cf954bb3834f3de646fdcddbcf28d29ca57"
+  },
+  "prefix-zerbrechen-2": {
+    "text": "Er zerbricht den Teller aus Versehen.",
+    "voice": "de-DE-ConradNeural",
+    "rate": "+0%",
+    "version": "7297ff7e2c918a6308bf8fd005be3c3bf4c1c625c6caec723181b43143626855",
+    "audioSha256": "89fa9958a0662deb3e7b275c25f63a1f121fc16b1bfc7448ab71dc95e3e47050"
+  },
+  "prefix-zerreissen-2": {
+    "text": "Sie zerreißt das Blatt in kleine Stücke.",
+    "voice": "de-DE-ConradNeural",
+    "rate": "+0%",
+    "version": "0bbb0f4ff6bc88ec508e7c375b02feb0c168abe575e88f700e98795e0b054a34",
+    "audioSha256": "e81269bd3b3e9376bd582d1af4b91be50f049484a18e60fbad96a5999a2e51ec"
+  },
+  "prefix-zerreissen-1": {
+    "text": "Du kannst den alten Brief zerreißen.",
+    "voice": "de-DE-ConradNeural",
+    "rate": "+0%",
+    "version": "0c43592a3f1d4a05932c93f8748f86317d041a7b6367185a85e1c91c103bcaa2",
+    "audioSha256": "a9a9136d07cc3f0b66e0a133fe03da450d5d81b5ae37712f6e79f5423eb09bb9"
+  },
+  "prefix-zerlegen-1": {
+    "text": "Wir müssen den Schrank für den Transport zerlegen.",
+    "voice": "de-DE-ConradNeural",
+    "rate": "+0%",
+    "version": "22c8eab604b4f2db53b04fc660ab5e5bf0ae87546354405c0435991e3001663b",
+    "audioSha256": "e4878c1737cdafaf3ef98322b95e0ac02344af5acb42e5bdf5f769bea08d85d2"
+  },
+  "prefix-zerlegen-2": {
+    "text": "Er zerlegt das Gerät in seine Einzelteile.",
+    "voice": "de-DE-ConradNeural",
+    "rate": "+0%",
+    "version": "63504ba078fd1320372a967d6c57ca8f2892f691c0b2dc56470fc2806b817cba",
+    "audioSha256": "b562227fd03c7f113b3cdc7d0145cf198090226bc593133b5c00ced9fea2d592"
+  },
+  "prefix-umfahren-knock-1": {
+    "text": "Pass auf, du könntest den Pfosten umfahren.",
+    "voice": "de-DE-KatjaNeural",
+    "rate": "+0%",
+    "version": "d1586e4fad7be72aa7523a70f4a0987a940112d4ed8f2b48672ae55cba9fc5ca",
+    "audioSha256": "3d65c72888227e468ba7e24caaa59e61b0946f58009c07f595ea6a63e055b565"
+  },
+  "prefix-umfahren-knock-2": {
+    "text": "Der Fahrer fährt den Pfosten um.",
+    "voice": "de-DE-KatjaNeural",
+    "rate": "+0%",
+    "version": "4944194b39686e8e794233186863e05d27d6f32a72df8583d8398082fbc94b50",
+    "audioSha256": "7a5a85503d6127fdb05dde7421369492b12fc785f1f4962f6d6c7648ad4fc792"
+  },
+  "prefix-umfahren-around-1": {
+    "text": "Wir müssen die Baustelle umfahren.",
+    "voice": "de-DE-ConradNeural",
+    "rate": "+0%",
+    "version": "798c90195f4520b4eda303b00c208fcb94aea5d42a1be07ece4339cb0ec741ef",
+    "audioSha256": "b43c7bd19c3851424d13cc4c6f85b4abded563a5406c38a0aadf6cb9600f8df5"
+  },
+  "prefix-umfahren-around-2": {
+    "text": "Sie umfährt das Hindernis vorsichtig.",
+    "voice": "de-DE-ConradNeural",
+    "rate": "+0%",
+    "version": "7b8b70d29b4d051b3002098b87132e195139babfd1dfa77d508c2d813342078b",
+    "audioSha256": "1c6b1fd38fdee2606a21a120433a985b5171b553e45078c12fb534614ce05f08"
+  },
+  "prefix-ueberkochen-1": {
+    "text": "Die Milch darf nicht überkochen.",
+    "voice": "de-DE-KatjaNeural",
+    "rate": "+0%",
+    "version": "afc514e6c98b94e4da2d3faec486736ca4b7fe0067d6863d3f6a1547816287a9",
+    "audioSha256": "182cb8ebbdc2a26bbdd8b66d45d56c9c08aaf7071868f9b883f4e665821b112a"
+  },
+  "prefix-ueberkochen-2": {
+    "text": "Die Suppe kocht gerade über.",
+    "voice": "de-DE-KatjaNeural",
+    "rate": "+0%",
+    "version": "043bb3fd5be0ff7eab4c43cdbf28a7e33dd90771134823d39c8081588ecece15",
+    "audioSha256": "dca8bff111a1ad42741b2b9d04a756301894d083fcff7de11bfce9572f3a0d4a"
+  },
+  "prefix-uebersetzen-1": {
+    "text": "Kannst du den Brief ins Englische übersetzen?",
+    "voice": "de-DE-ConradNeural",
+    "rate": "+0%",
+    "version": "a1e933d72d7b9b0a2cf4345810c5b4b51faabb12adc3c18838ced12b32d3067d",
+    "audioSha256": "a242976e509e15bddfb9659c7df635b051f7f4606f141b4c4089e6f766089396"
+  },
+  "prefix-uebersetzen-2": {
+    "text": "Sie übersetzt den Text ins Deutsche.",
+    "voice": "de-DE-ConradNeural",
+    "rate": "+0%",
+    "version": "37ba8c2e41ed05c246d1c0366dba90555cbbf125851ac137a43195fbcd6cd723",
+    "audioSha256": "af6c533741cd56b4da88b9a4c851e697e65e7e8ec1bc35af214eb6b55938df9b"
+  },
+  "prefix-untergehen-1": {
+    "text": "Das beschädigte Schiff könnte untergehen.",
+    "voice": "de-DE-KatjaNeural",
+    "rate": "+0%",
+    "version": "80b28e238bfb11ce5858c4724b83f5cc0301f72c39fc8ff51a04da6759ea4e62",
+    "audioSha256": "6ecb15a6cf0a22e62717493acac032eda02e199f3e8cc7a57e0c0ccf4568fceb"
+  },
+  "prefix-untergehen-2": {
+    "text": "Das Boot geht langsam unter.",
+    "voice": "de-DE-KatjaNeural",
+    "rate": "+0%",
+    "version": "85d7e3864983109c83904395e8a9fa31b892b6bad1a2d5d37b168171632038e2",
+    "audioSha256": "fc99fd1784fed3742210523ca973f6f4c624d8b86c19ef390a0b39d68990761f"
+  },
+  "prefix-unterschreiben-1": {
+    "text": "Sie müssen den Vertrag noch unterschreiben.",
+    "voice": "de-DE-KatjaNeural",
+    "rate": "+0%",
+    "version": "d92b8c283a12e4120f1141fff826a98e47d6cdf871993f6d5aaf381e637d4a22",
+    "audioSha256": "ea3be04231fb38df723c8bf77f07b92b350cb7dffe84764c03de7b02e983982e"
+  },
+  "prefix-unterschreiben-2": {
+    "text": "Er unterschreibt das Formular.",
+    "voice": "de-DE-KatjaNeural",
+    "rate": "+0%",
+    "version": "5c22191c2ca7bcf52dcc12392b901431f558766c971712ef5a709eb63fbeed2a",
+    "audioSha256": "551dbb559846cdfef3f4017a7b560efe2c188150995753c8234b306fa5ef11f4"
+  },
+  "prefix-durchlesen-1": {
+    "text": "Bitte den ganzen Text durchlesen.",
+    "voice": "de-DE-KatjaNeural",
+    "rate": "+0%",
+    "version": "e900cfebfef44f965aaa91105e0c2b227c0e01479e37524a23c6afe3287e612c",
+    "audioSha256": "ab4b71ed3c73939557057c5b97f1e736d4d219294014d7674dbef4b4f23e1196"
+  },
+  "prefix-durchlesen-2": {
+    "text": "Sie liest den Brief sorgfältig durch.",
+    "voice": "de-DE-KatjaNeural",
+    "rate": "+0%",
+    "version": "8e87d6a6a43e7b33f6c14c135d48170f7373c2977a9e00aee0c50541b6a39c9d",
+    "audioSha256": "cf0c81e45bbc5b106ee992baeba1a6f1387b8b06cb1cfaa19751f7faa56e309d"
+  },
+  "prefix-durchsuchen-1": {
+    "text": "Wir müssen die Tasche nach dem Schlüssel durchsuchen.",
+    "voice": "de-DE-ConradNeural",
+    "rate": "+0%",
+    "version": "48a1066b61a99a9634dbbf42c67c782e8d2f79dc6256da0c1669665c39218ec9",
+    "audioSha256": "e1964b5f78803682a567a8577124ec1e2f1400b7868db9126d6a33d6fad4f384"
+  },
+  "prefix-durchsuchen-2": {
+    "text": "Er durchsucht alle Schubladen.",
+    "voice": "de-DE-ConradNeural",
+    "rate": "+0%",
+    "version": "dac85583a59a64c47b1a2476178300fb6048972e59f8267cb0804a9313dd4178",
+    "audioSha256": "b674faccb1b9d07eedeb8b3cc7cceffb1abbea986e0b8e05779576b06e1d93a8"
+  },
+  "prefix-wiederkommen-1": {
+    "text": "Kannst du morgen wiederkommen?",
+    "voice": "de-DE-KatjaNeural",
+    "rate": "+0%",
+    "version": "2e31324714a04467f867aeed36de27dfa9466aa9631b88df33a12bf1c6e5d14c",
+    "audioSha256": "4c3d28d9ff22d4276ba983b601dd4f8ebc3c41d2e22b541dc3205f0adcb29ea5"
+  },
+  "prefix-wiederkommen-2": {
+    "text": "Sie kommt nächste Woche wieder.",
+    "voice": "de-DE-KatjaNeural",
+    "rate": "+0%",
+    "version": "ecea9aeba694354107d3deb68ea82a3e035c337d12c17f2ef7bac0e125c99c66",
+    "audioSha256": "798574ac617a5d43c39dd7d75e5469a7dc0cb4d834222f1b36ca2600de600675"
+  },
+  "prefix-wiederholen-1": {
+    "text": "Kannst du den Satz bitte wiederholen?",
+    "voice": "de-DE-ConradNeural",
+    "rate": "+0%",
+    "version": "977423bff304e13e748918cbb9af9a728c7e4bbcb874d95273c624a218c92675",
+    "audioSha256": "98c5bcba732f3759591bd71a9797ab8df3eb88d1f4fa7735af95f7eb0c87c047"
+  },
+  "prefix-wiederholen-2": {
+    "text": "Er wiederholt die Frage langsam.",
+    "voice": "de-DE-ConradNeural",
+    "rate": "+0%",
+    "version": "a8db457eb4e6f2ddf2b826a5c3c4bd56ca90322d5830ff6246d782e4fd4c1d3c",
+    "audioSha256": "a0ef27dd63bc5b77721a8dc546800cd072a449ae874f6a82bc5a73ab08d112c3"
+  },
+  "prefix-widerspiegeln-1": {
+    "text": "Der Bericht soll die Lage genau widerspiegeln.",
+    "voice": "de-DE-ConradNeural",
+    "rate": "+0%",
+    "version": "387cfd69502cc2160c7ffa3d5fc38210c79d2dc03c4585a19b26b42c8c878c90",
+    "audioSha256": "497c45657899f98c9a89fe4035af595cf815135f7265f4c6b53c12d49a7827e4"
+  },
+  "prefix-widerspiegeln-2": {
+    "text": "Das Ergebnis spiegelt unsere Arbeit wider.",
+    "voice": "de-DE-ConradNeural",
+    "rate": "+0%",
+    "version": "0941e1e72ee4a7f0bc183cec8f2f64988530376db932804af678024c99e6f803",
+    "audioSha256": "91bdc7cf0e4c8ae2c8a6b7551cf173b354688edf718ac88936adaf2c76b4d7a0"
+  },
+  "prefix-widersprechen-1": {
+    "text": "Du darfst mir ruhig widersprechen.",
+    "voice": "de-DE-KatjaNeural",
+    "rate": "+0%",
+    "version": "620d2c10d2255903cee85f61b2c3655193b109ab782e4eb89908044216ece2e0",
+    "audioSha256": "eb2fb7e01330556ac71855c4e6daaf3064ad99da2f8afb7c4c483b9a3e2bce1f"
+  },
+  "prefix-moeglich-1": {
+    "text": "Ein früherer Termin ist möglich.",
+    "voice": "de-DE-ConradNeural",
+    "rate": "+0%",
+    "version": "b8533b3bf015498eac78bbb6397c23a775b2c9aa3c3f3f3f54b7682c9d106801",
+    "audioSha256": "2a693908b066c5f33c5596c603ff8ca1b219d698dfd692fd637ce1e6323b32d8"
+  },
+  "prefix-widersprechen-2": {
+    "text": "Sie widerspricht dem Vorschlag deutlich.",
+    "voice": "de-DE-KatjaNeural",
+    "rate": "+0%",
+    "version": "fdc0d51298563c6fef5bb817396ac0bb94d1aecf4654e1ab90667a19f32b3105",
+    "audioSha256": "c504abba79c910ba1a1458dc64bc79518be8007107d400f97e33c27258555f2a"
+  },
+  "prefix-moeglich-2": {
+    "text": "Wir besprechen eine mögliche Lösung.",
+    "voice": "de-DE-ConradNeural",
+    "rate": "+0%",
+    "version": "34f303e2add49bf3e49deb8705b0e0a824f394712604e53019c0903cfa8451cb",
+    "audioSha256": "e44a22d8cec71f89995293d060212417f55f64f4c8220708e88414c03feeb5c6"
+  },
+  "prefix-freundlich-1": {
+    "text": "Die neue Nachbarin ist sehr freundlich.",
+    "voice": "de-DE-ConradNeural",
+    "rate": "+0%",
+    "version": "a11b5f9de5a6486292b400a68540eba1d5f2c34bbbb2e2a39c4e4649a1d9eda3",
+    "audioSha256": "1e88f4c172be24ea6d64de79cd5c97785481e67f357c49e584afdb4c4e70578c"
+  },
+  "prefix-freundlich-2": {
+    "text": "Ein freundlicher Mitarbeiter hilft uns.",
+    "voice": "de-DE-ConradNeural",
+    "rate": "+0%",
+    "version": "0ed326f95fba2851e8ab152de082ae1595703f3c74a91f1a4c8684f713407a64",
+    "audioSha256": "f70299501e6147578e25f4b9f97ed6096bbc9fd96852fb8b8ac612eeabaed182"
+  },
+  "prefix-klar-1": {
+    "text": "Die Antwort ist jetzt klar.",
+    "voice": "de-DE-ConradNeural",
+    "rate": "+0%",
+    "version": "606f8ede8a5a0093ca73e4ad772742bf062e14f131d5bc4a1f75f0055de4ff04",
+    "audioSha256": "38f41c59e779aa2c3b15aa13ac43c6893116f2ae199d36d54be20c7d1403b2a9"
+  },
+  "prefix-klar-2": {
+    "text": "Wir brauchen eine klare Erklärung.",
+    "voice": "de-DE-ConradNeural",
+    "rate": "+0%",
+    "version": "e0022a700e228f8f172ba1e5742c7324d41169f461819ddaff857dc8fc31d103",
+    "audioSha256": "7245fefff4c5061f114a20e04997158006b8dc19af470fbba182f34a742145cf"
+  },
+  "prefix-kommen-1": {
+    "text": "Kannst du morgen zu uns kommen?",
+    "voice": "de-DE-KatjaNeural",
+    "rate": "+0%",
+    "version": "13fcc62141efe3d726c8e1cb299751aa86b016af2ec9a27f7189ee773541714a",
+    "audioSha256": "baaea1c10e7054c5635f5885c1f3df4caa4a047ba97afc43d81aec7bf157f9bd"
+  },
+  "prefix-kommen-2": {
+    "text": "Sie kommt heute zu Besuch.",
+    "voice": "de-DE-KatjaNeural",
+    "rate": "+0%",
+    "version": "ee40a29df7e1f7c796fe41104eceb6de16a65ec29099aed33d6f7ffa27ee25af",
+    "audioSha256": "7df4c39fa812214b25a210fa62e2d4aa19bf792e7e62df846131094994875944"
+  },
+  "prefix-machen-2": {
+    "text": "Er macht seine Hausaufgaben.",
+    "voice": "de-DE-ConradNeural",
+    "rate": "+0%",
+    "version": "7135185bbf22b73367a3cad383a90f9ca488e8e67e2bdc649e761d47f76aa557",
+    "audioSha256": "747d06d5e3b7b6a70a27533046ae652ed5ba234d4f6f74d169c38bf649034d93"
+  },
+  "prefix-machen-1": {
+    "text": "Wir wollen heute einen Ausflug machen.",
+    "voice": "de-DE-ConradNeural",
+    "rate": "+0%",
+    "version": "5e6913a3a54a1a983a29b5c1514a41b4ba1d9847258e68b8fec3671605b17b14",
+    "audioSha256": "ab8bb1ef79901eb35a59cc8e51f7667e83b6b78d3b3413d16ace0e14e9a270c3"
+  },
+  "prefix-packen-1": {
+    "text": "Ich muss noch meinen Koffer packen.",
+    "voice": "de-DE-ConradNeural",
+    "rate": "+0%",
+    "version": "ac37edfe2264ecf4a9e967da9d3665b23fbdb2570e1114b2da08343e40778b57",
+    "audioSha256": "267631acceb55da088dd3541bf64715e49bb9f38622937bab50156584888b06a"
+  },
+  "prefix-packen-2": {
+    "text": "Sie packt ihre Tasche.",
+    "voice": "de-DE-ConradNeural",
+    "rate": "+0%",
+    "version": "d3417a74c71a21df26851589c9530be8503fe6d2760e7705b92a1c38c5c4e2ce",
+    "audioSha256": "d39f799267f7a3c11f3fc500a737a0d976239703933846e489c1fdb0a6f44f86"
+  },
+  "prefix-contrast-moeglich-unmoeglich-moeglich-1": {
+    "text": "Mit diesem Schlüssel ist der Zugang möglich.",
+    "voice": "de-DE-ConradNeural",
+    "rate": "+0%",
+    "version": "b3d575c40c8a81e0443207cf398dbf914e40bf3772db3ff729c36b41349d2155",
+    "audioSha256": "6fac5fbe60071aa747c625e5aba6480917f3848611de03360b81e8b1b1497a43"
+  },
+  "prefix-contrast-moeglich-unmoeglich-moeglich-2": {
+    "text": "Ein Treffen am Montag ist für uns möglich.",
+    "voice": "de-DE-ConradNeural",
+    "rate": "+0%",
+    "version": "2317aae8c8939a183d659b7b03e7f55f204c0ad2eaa0bc2139292a99adc0d264",
+    "audioSha256": "7af6856fbdc2e57a7fb4ef11a6517f7623d829fd76a63cf48a4ca0fa27378a37"
+  },
+  "prefix-contrast-moeglich-unmoeglich-unmoeglich-2": {
+    "text": "Allein kann ich das nicht schaffen; es ist unmöglich.",
+    "voice": "de-DE-KatjaNeural",
+    "rate": "+0%",
+    "version": "6457b5fb79cae3d0d4d577f59ea44b006fb03eb77f7e0525875269192667c5a3",
+    "audioSha256": "6499a12ac8abb407ade6312ac84d80ffef4000498a48b19f0c85f2cc9e361c78"
+  },
+  "prefix-contrast-moeglich-unmoeglich-unmoeglich-1": {
+    "text": "Ohne gültiges Ticket ist die Fahrt unmöglich.",
+    "voice": "de-DE-KatjaNeural",
+    "rate": "+0%",
+    "version": "d4d99c7488eb5e4e1bbd83606233e6b3495f1e6bed4275f335241590b196d062",
+    "audioSha256": "58120e9a08f8aa8207c7a129c964d8e5e4ad4f38df342e68e2992d09ad741078"
+  },
+  "prefix-contrast-freundlich-unfreundlich-freundlich-1": {
+    "text": "Sie begrüßt jeden mit einem Lächeln und ist immer freundlich.",
+    "voice": "de-DE-ConradNeural",
+    "rate": "+0%",
+    "version": "e0e4d9ff3c4937ae87e3868410f6b52e0edc637b817e533953f0d68b08fc87b1",
+    "audioSha256": "0056662cbb08051d3f994c634ec6a1a8e80dc73f0e40a633fec14a4686041d2b"
+  },
+  "prefix-contrast-freundlich-unfreundlich-freundlich-2": {
+    "text": "Der freundliche Mitarbeiter hilft mir geduldig.",
+    "voice": "de-DE-ConradNeural",
+    "rate": "+0%",
+    "version": "53e41929f42664592a48051be51dccf5c56f89deed771212a5083248c1c9c85e",
+    "audioSha256": "88f4fb85ea2718b69826ce877219d0aad6b0e0bc6ed4419974e692412b83f9a8"
+  },
+  "prefix-contrast-freundlich-unfreundlich-unfreundlich-1": {
+    "text": "Er grüßt niemanden und ist zu allen unfreundlich.",
+    "voice": "de-DE-KatjaNeural",
+    "rate": "+0%",
+    "version": "b81db7d89305fae5b2e9320efbd8736ca19ed1c3f0494041d51b3e8b518f48bc",
+    "audioSha256": "ec30c10faaabfc60632b9d2ac6b5e5ccbfb4444aab3b4ec213980f8aedfdfe91"
+  },
+  "prefix-contrast-freundlich-unfreundlich-unfreundlich-2": {
+    "text": "Der unfreundliche Kellner antwortet sehr schroff.",
+    "voice": "de-DE-KatjaNeural",
+    "rate": "+0%",
+    "version": "5e7736c5db8b4020a4d667dd06a7ebc88092b40df39c07a847358ed096e67b43",
+    "audioSha256": "976b8dbb7591d855b5bca27cb1f8369b3c97b71a3a31eb02ba1bdc8df5bd7d23"
+  },
+  "prefix-contrast-klar-unklar-klar-1": {
+    "text": "Jetzt verstehe ich alles; die Erklärung ist klar.",
+    "voice": "de-DE-ConradNeural",
+    "rate": "+0%",
+    "version": "2b51efece6780c86b20a04c79b87ae47b7e4f155b954214352cf485be0b482c1",
+    "audioSha256": "afcb9f9ec459b702a300e8d069129af13bd28e055f5003554e95b19283b92896"
+  },
+  "prefix-contrast-klar-unklar-klar-2": {
+    "text": "Die klare Anleitung lässt keine Fragen offen.",
+    "voice": "de-DE-ConradNeural",
+    "rate": "+0%",
+    "version": "3a18ecd00ccc458927a128cba6bdcae1d84db97070b2db28d11f2e36eacb257d",
+    "audioSha256": "aa9a60abc7f5b63b253e3f14dffb266ffe12f740953c5a78aab7a00f144d20f2"
+  },
+  "prefix-contrast-klar-unklar-unklar-1": {
+    "text": "Niemand weiß, was gemeint ist; die Aussage bleibt unklar.",
+    "voice": "de-DE-KatjaNeural",
+    "rate": "+0%",
+    "version": "1234c19c46ac6fde784e6e63f2bf040cd767164c40d2661ccdf4be706d42bc34",
+    "audioSha256": "27b8d639fe1cad49033b66fae1d2843e01ccbf7a4bdffd995e131d57ddddfe68"
+  },
+  "prefix-contrast-klar-unklar-unklar-2": {
+    "text": "Wegen der unklaren Beschreibung müssen wir nachfragen.",
+    "voice": "de-DE-KatjaNeural",
+    "rate": "+0%",
+    "version": "ed42996b311fea88b6f0fb9c0409a4d5b765aba262bc9eedb527fb82bf22f0f6",
+    "audioSha256": "155bd5d0669f5b2f1ef865303aae30dae351cacf28544dcc4f42f79155bec1f1"
+  },
+  "prefix-contrast-anmachen-ausmachen-anmachen-1": {
+    "text": "Es ist dunkel; kannst du die Lampe anmachen?",
+    "voice": "de-DE-KatjaNeural",
+    "rate": "+0%",
+    "version": "209c1a3abc35dc3e473f0ed32d05cea6fc41879c970473df32c616b900940e3b",
+    "audioSha256": "2c4e4723353f85e0a0d1b35e4b21043871475330333e6fcaf95dcdcb95f55fc2"
+  },
+  "prefix-contrast-anmachen-ausmachen-anmachen-2": {
+    "text": "Ich möchte Musik hören und das Radio anmachen.",
+    "voice": "de-DE-KatjaNeural",
+    "rate": "+0%",
+    "version": "d039e3315b7d37575025959c931085232c06a45e6e4fa96d197419129f23b2fc",
+    "audioSha256": "db80b49d36e44ccbb98930a9d9c71a5855d50bfa89471250c21e336baeff97ae"
+  },
+  "prefix-contrast-anmachen-ausmachen-ausmachen-1": {
+    "text": "Das Licht stört mich beim Schlafen; kannst du es ausmachen?",
+    "voice": "de-DE-KatjaNeural",
+    "rate": "+0%",
+    "version": "d79f7e3a761b5fa11fe3b2c93ed04eab4f72f022284c9d89fbff52f238603594",
+    "audioSha256": "d7e6793a123663db50521fc9b272d5039e6ed24b25e5273ee2a998925552138b"
+  },
+  "prefix-contrast-anmachen-ausmachen-ausmachen-2": {
+    "text": "Wir gehen jetzt und sollten den Fernseher ausmachen.",
+    "voice": "de-DE-KatjaNeural",
+    "rate": "+0%",
+    "version": "c4a37c865b164fd5419305744fc35f6f979f87f3f5e7fb635bc13fd1d8ae17ec",
+    "audioSha256": "8f12ccfa1c1c10d52030eb5f08dca274d9047d1a2f1973c81911223a5b463d6b"
+  },
+  "prefix-contrast-aufmachen-zumachen-aufmachen-1": {
+    "text": "Die Tür ist geschlossen; kannst du sie bitte aufmachen?",
+    "voice": "de-DE-ConradNeural",
+    "rate": "+0%",
+    "version": "4ffb5668bc63e4c9ebb80e573f06be2dc51289e1dc31d80f9834fa0108fb4de9",
+    "audioSha256": "93d7c44a084713f0163263f0ceabc364b4df5c01bbb208f5a2be8a2ca80f73bc"
+  },
+  "prefix-contrast-aufmachen-zumachen-aufmachen-2": {
+    "text": "Wir brauchen frische Luft und sollten das Fenster aufmachen.",
+    "voice": "de-DE-ConradNeural",
+    "rate": "+0%",
+    "version": "99cf3c687e049047e66500ec5b898cbd26c3b1516dd79769ce3325d6bdc73999",
+    "audioSha256": "6728a86ed8a50bde08b4fc38283597f7ec23aa70774d3db8e1d4da8d4e9285ca"
+  },
+  "prefix-contrast-aufmachen-zumachen-zumachen-1": {
+    "text": "Es zieht; kannst du das offene Fenster zumachen?",
+    "voice": "de-DE-KatjaNeural",
+    "rate": "+0%",
+    "version": "68809db3ad7dd8830c0a3975d0693b0286ede0fcf0fe388f50b3431fc1a5c6f1",
+    "audioSha256": "6da1d97a614a349538a90e3d54c757015194455d8c2f0193ee76889cdc9710ec"
+  },
+  "prefix-contrast-aufmachen-zumachen-zumachen-2": {
+    "text": "Die Tür steht offen; bitte die Tür zumachen.",
+    "voice": "de-DE-KatjaNeural",
+    "rate": "+0%",
+    "version": "114afae30851c9b40822261df69c6ddcd795c0299e973a19c1a9a0f764fc5caa",
+    "audioSha256": "3ef72053bf92b6b814081e75f968e400fe260ba7e8358f3f0560fc4a3412e3ee"
+  },
+  "prefix-contrast-einpacken-auspacken-einpacken-1": {
+    "text": "Vor der Reise muss ich meine Kleidung einpacken.",
+    "voice": "de-DE-ConradNeural",
+    "rate": "+0%",
+    "version": "93b54f5f9249b33db5372e3a930a9af911a0262e80e0eced5f483511a4e0f958",
+    "audioSha256": "a26c47f0a1b0ee160ccc266e00b2236eb9390d3c1ad61caeb357820208cee84c"
+  },
+  "prefix-contrast-einpacken-auspacken-einpacken-2": {
+    "text": "Das Geschenk soll eine Überraschung sein; ich werde es einpacken.",
+    "voice": "de-DE-ConradNeural",
+    "rate": "+0%",
+    "version": "ea6276dee560bf2b91bf0bdfc1559f42e2f2e37a1450e5c7aec2e67a46dc2719",
+    "audioSha256": "c74afa2c6ea14829e5bc7f0fcbc99d977eb63a9e29d38d8064a04664dde36fe1"
+  },
+  "prefix-contrast-einpacken-auspacken-auspacken-1": {
+    "text": "Nach der Reise möchte ich meinen Koffer auspacken.",
+    "voice": "de-DE-KatjaNeural",
+    "rate": "+0%",
+    "version": "ec8eca3fac19de80c472201d069575e024f69ca0d259d8b55e7105c887df09bc",
+    "audioSha256": "e6dbfc71eca93b1ea04f135ff047ee705f19f37ab1e23a9cdf132be8fd1b5a8b"
+  },
+  "prefix-contrast-einpacken-auspacken-auspacken-2": {
+    "text": "Du hast Geburtstag und darfst jetzt dein Geschenk auspacken.",
+    "voice": "de-DE-KatjaNeural",
+    "rate": "+0%",
+    "version": "a38b86803473ad7058b76d4526fdaff5d308f34f94ce0a84e0ffa2bab2b6e407",
+    "audioSha256": "b2e5dbfae1efef393166b1fa47b71d2cd61545ffd8e43531fa950dcecffbeb78"
+  },
+  "prefix-contrast-einsteigen-aussteigen-einsteigen-1": {
+    "text": "Der Zug ist da; wir können jetzt einsteigen.",
+    "voice": "de-DE-KatjaNeural",
+    "rate": "+0%",
+    "version": "a26db0136e8f1ce73d55faea041796ef4202de283569e34b3d653a2df97d8798",
+    "audioSha256": "74888f6fe80d20839e4d0590fe7c257a8fec0ed989bbae7fe8e3bff64e496358"
+  },
+  "prefix-contrast-einsteigen-aussteigen-einsteigen-2": {
+    "text": "Das Taxi wartet; du kannst hinten einsteigen.",
+    "voice": "de-DE-KatjaNeural",
+    "rate": "+0%",
+    "version": "1e7976f8a7bb8ee61e6dea278eded1ff2964f8cbb118c1a89ce4302da075f847",
+    "audioSha256": "a44ad2b224d3d17a2873df0024cf3d6cac95ae0678980fc5171f5dd283fd7c86"
+  },
+  "prefix-contrast-einsteigen-aussteigen-aussteigen-1": {
+    "text": "Wir sind am Ziel und müssen hier aussteigen.",
+    "voice": "de-DE-ConradNeural",
+    "rate": "+0%",
+    "version": "8458cf03fd6838eef25c91b6e53e453bb2bf8343ae065a74822d2607b0faa6d2",
+    "audioSha256": "048b9155d8007cb301b1f94a65b4f9e198a17a8fe3e5be5e9fc5b61ac6431098"
+  },
+  "prefix-contrast-einsteigen-aussteigen-aussteigen-2": {
+    "text": "Der Bus hält vor meinem Haus; dort werde ich aussteigen.",
+    "voice": "de-DE-ConradNeural",
+    "rate": "+0%",
+    "version": "ffd11045d1dcb4144714943bf340155346bec52ac995c2c8ad8564f248bceab6",
+    "audioSha256": "e57f475fde912158d5c912d8285c9ea0505880192fa5136896cbb08cc0c2b106"
+  },
+  "prefix-contrast-ankommen-abfahren-ankommen-1": {
+    "text": "Nach der langen Fahrt werden wir endlich ankommen.",
+    "voice": "de-DE-ConradNeural",
+    "rate": "+0%",
+    "version": "b1ef2914d879eb74301eec9a313ff4462dbad3c0d583c7f778c0077a5ade4b02",
+    "audioSha256": "11d1ec2927bad630ea7725b3d7afc0061eb341f1bce1ea85005816e35eb6cc40"
+  },
+  "prefix-contrast-ankommen-abfahren-abfahren-1": {
+    "text": "Alle Fahrgäste sitzen im Bus; jetzt kann er abfahren.",
+    "voice": "de-DE-KatjaNeural",
+    "rate": "+0%",
+    "version": "37e9b98b248a18a63703a2b6bd2cf6f750435de8d7f8ea4100df47ef62567bdd",
+    "audioSha256": "347d8ae6c7068977d5cfe55686062472ff4829c247c6bf485cc31361ae4870f4"
+  },
+  "prefix-contrast-ankommen-abfahren-abfahren-2": {
+    "text": "Der Zug steht noch am Startbahnhof und soll gleich abfahren.",
+    "voice": "de-DE-KatjaNeural",
+    "rate": "+0%",
+    "version": "36b9b22f38b43b0631500034c6b55c23b6ea536d0c5e55e79d670b2785ef7198",
+    "audioSha256": "9c8ad7929b500fc2974a744972205feaf8018c1124334956d83001c4d2d1a3b4"
+  },
+  "prefix-contrast-ankommen-abfahren-ankommen-2": {
+    "text": "Der Zug wird um zehn Uhr am Zielbahnhof ankommen.",
+    "voice": "de-DE-ConradNeural",
+    "rate": "+0%",
+    "version": "9a6527486858d56cfe84c60fcd9419de789c4a61908181e00d01ecd96bb88b94",
+    "audioSha256": "af44185c9db2719e86fed5b5da7f03a0b1a6ac52f6bc3c4143aa2b4de097a366"
+  },
+  "prefix-contrast-mitbringen-wegbringen-mitbringen-1": {
+    "text": "Wenn du zu uns kommst, kannst du deine Gitarre mitbringen.",
+    "voice": "de-DE-KatjaNeural",
+    "rate": "+0%",
+    "version": "f720c30b226907102fe699c162e303f6a8b88147f25a53cffa5dca0c9cc4f5e0",
+    "audioSha256": "d97081708753386db57cd843fa708dd7d47fdbe80e1d20fe1d29af6d5a813dea"
+  },
+  "prefix-contrast-mitbringen-wegbringen-mitbringen-2": {
+    "text": "Wir brauchen Teller für das Picknick; kannst du welche mitbringen?",
+    "voice": "de-DE-KatjaNeural",
+    "rate": "+0%",
+    "version": "dede72001d783ba3d4cbcd171d5be3f1b94462029c940ac75afc6e71e0fe6506",
+    "audioSha256": "113ada91f540dc541fce99354dc92ad019d3a0676f3006354405e1f0732e3ea2"
+  },
+  "prefix-contrast-mitbringen-wegbringen-wegbringen-1": {
+    "text": "Der Müll steht noch in der Küche; kannst du ihn wegbringen?",
+    "voice": "de-DE-ConradNeural",
+    "rate": "+0%",
+    "version": "a42ee8d17c13c2ac703eafa66eb79d4a0ba7d5435bbddc027c22cd31a2c5e404",
+    "audioSha256": "5b782d6642ab2691bc2dcfdcd806902386509bb83169c108ab85fd773ab8cc04"
+  },
+  "prefix-contrast-mitbringen-wegbringen-wegbringen-2": {
+    "text": "Diese leeren Kisten stehen im Weg; wir müssen sie wegbringen.",
+    "voice": "de-DE-ConradNeural",
+    "rate": "+0%",
+    "version": "5556e0d744bea4cc6a65c8515577b16bd98f19cec858d4f78b9485de9bafc0e0",
+    "audioSha256": "9d7728db604284d41cea1bbae611e608eadf9213901cbb20a8a8427abff2a7f5"
+  },
+  "prefix-contrast-gelingen-misslingen-gelingen-1": {
+    "text": "Mit guter Vorbereitung wird dir die Präsentation gelingen.",
+    "voice": "de-DE-KatjaNeural",
+    "rate": "+0%",
+    "version": "f29f73592a3d10e146ed3a5ee6458871c3422afa5e64d3a04463fa389cfcb2f6",
+    "audioSha256": "19074b9c87932af03d45f82026df704a283a2b6ca9b0457ad7eb43e46ae1d712"
+  },
+  "prefix-contrast-gelingen-misslingen-gelingen-2": {
+    "text": "Wenn alles klappt, wird der Versuch gelingen.",
+    "voice": "de-DE-KatjaNeural",
+    "rate": "+0%",
+    "version": "c47a86a585df84e4789037cd697e65ef2bfb6ca6ac4d1e4d41f6d19d9d24c5e9",
+    "audioSha256": "3cd94742c4b8a66eb2b2f242ae99dbf028bc67153e0a3f5f61208a87609ac561"
+  },
+  "prefix-contrast-gelingen-misslingen-misslingen-1": {
+    "text": "Ohne die richtige Temperatur kann der Kuchen misslingen.",
+    "voice": "de-DE-KatjaNeural",
+    "rate": "+0%",
+    "version": "8d47464ffeb2302e2b65a3deef2ff3ae73df287af4f0b5ddefeb471dcd623950",
+    "audioSha256": "4a59dc8b7b96d8a10f0320716c6048cabb46e5442c43957b2142c6b43ead5f03"
+  },
+  "prefix-contrast-gelingen-misslingen-misslingen-2": {
+    "text": "Wenn wir einen wichtigen Schritt vergessen, kann der Versuch misslingen.",
+    "voice": "de-DE-KatjaNeural",
+    "rate": "+0%",
+    "version": "7cc47202522898102ea47c8322cab2f989f9f6c7481734fee565865927bc3575",
+    "audioSha256": "203b9a4100994372c57f31a77c36722f0a87d7b740f5222cdff6a5811a2cb699"
+  },
+  "prefix-contrast-verstehen-missverstehen-verstehen-1": {
+    "text": "Sprich bitte langsam, damit ich dich richtig verstehen kann.",
+    "voice": "de-DE-ConradNeural",
+    "rate": "+0%",
+    "version": "643fe27410ad3fdc78dbcf419aaf83ffef01f341402d879fd4e1275e76869e55",
+    "audioSha256": "6f275ae03f52c6a0dbf38e78d089fa729572a2e75a3e91e41c7802b9519530e0"
+  },
+  "prefix-contrast-verstehen-missverstehen-verstehen-2": {
+    "text": "Nach deiner Erklärung kann ich den Plan endlich verstehen.",
+    "voice": "de-DE-ConradNeural",
+    "rate": "+0%",
+    "version": "4f8425b24ef23f8ab4c72bf7a82172bb5f4811207afd8ed64b642e66d0870ded",
+    "audioSha256": "a3058c472bd6e2db44cc4c13a81ad77a77c4554f0e362d2710c558bd629c8d17"
+  },
+  "prefix-contrast-verstehen-missverstehen-missverstehen-1": {
+    "text": "Bei einer so unklaren Nachricht kann man dich leicht missverstehen.",
+    "voice": "de-DE-ConradNeural",
+    "rate": "+0%",
+    "version": "48e931bfb8ebd0b2a353773f4c6eee1f3d5a5c660508e859e3ed8032febf7799",
+    "audioSha256": "61f58940459804799a28e77ad0b8aced92fd9cb79569ec2fd1498f0a9de472c7"
+  },
+  "prefix-contrast-verstehen-missverstehen-missverstehen-2": {
+    "text": "Ich möchte dich nicht missverstehen; meinst du morgen oder heute?",
+    "voice": "de-DE-ConradNeural",
+    "rate": "+0%",
+    "version": "ae9e1f49c72c6fc179d134283430b2e8c0167dcf40868657dddd146c0ace5747",
+    "audioSha256": "cbfa19db9349418ac6ef23807d1da9461b5910c8bfe2a6be8d74e2473e991379"
+  },
+  "prefix-contrast-umfahren-senses-umfahren-knock-1": {
+    "text": "Der Fahrer fährt den Pfosten um; danach liegt er auf der Straße.",
+    "voice": "de-DE-KatjaNeural",
+    "rate": "+0%",
+    "version": "d4038182818fbe0f8837ee1bb5203b1e2244395c920415651674f328e3a993b0",
+    "audioSha256": "a4c2e187402a849a30bace321449c120f05787acb52b1a2c592eedc839be5cbf"
+  },
+  "prefix-contrast-umfahren-senses-umfahren-knock-2": {
+    "text": "Das Auto fährt das Schild um, sodass es zu Boden fällt.",
+    "voice": "de-DE-KatjaNeural",
+    "rate": "+0%",
+    "version": "6ee49307e76fec2352d19c72df31a45db885d19652e437a6dbd04fb717ec9fbd",
+    "audioSha256": "b6d569b097c2f18fee053aed2e42ee3cdb5b2c65eb565227ce2e0e33f7a24452"
+  },
+  "prefix-contrast-umfahren-senses-umfahren-around-1": {
+    "text": "Die Fahrerin umfährt den Pfosten, ohne ihn zu berühren.",
+    "voice": "de-DE-ConradNeural",
+    "rate": "+0%",
+    "version": "773a1409adcecc90c9f329bb2c4a3f5058080f5bdbce0a54450ebb51843ef6e5",
+    "audioSha256": "680c806654f290d87ff88a7732fd9b5f8057783d23e5f6ed894c20c0a9ee9471"
+  },
+  "prefix-contrast-umfahren-senses-umfahren-around-2": {
+    "text": "Der Bus umfährt das Hindernis und bleibt auf der Straße.",
+    "voice": "de-DE-ConradNeural",
+    "rate": "+0%",
+    "version": "2259e136f911f696f7e5e19d2ddb6b3a6e3a3220cee37481623ab71b5beecf2e",
+    "audioSha256": "f28ea1f39ed25a0650dbbe0cf296d4684a70e893d43662809313b35fa9ae7ae2"
+  }
+}
